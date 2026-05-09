@@ -42,7 +42,7 @@ export const ARTICLES: Article[] = [
     slug: "sociedades-medicas-primer-paso",
     category: "Tributario",
     title:
-      "Sociedades Médicas: el primer paso para una inversión eficiente",
+      "Sociedades Profesionales: el primer paso para una inversión eficiente",
     metaTitle:
       "Sociedad de Profesionales para Mineros en Chile | Guía 2026",
     metaDescription:
@@ -105,7 +105,7 @@ export const ARTICLES: Article[] = [
         h: "Cuándo conviene constituirla",
         p: [
           "La respuesta depende de cuánto factures hoy por boleta de honorarios y cuánta parte de eso se va en Global Complementario. Una regla práctica: si tu ingreso anual por honorarios supera los 1.500 UF y tu tramo marginal ya está sobre el 30%, la sociedad empieza a hacer sentido financiero. A niveles mayores, el ahorro anual puede perfectamente cubrir la entrada de un departamento.",
-          "El momento ideal también depende de tu etapa de vida profesional. Un becado que recién termina su residencia tiene menos urgencia que un especialista consolidado con 5 años de ejercicio. Pero cuanto antes se estructure, antes empiezan a acumularse los beneficios año tras año.",
+          "El momento ideal también depende de tu etapa de vida profesional. Un profesional en formación que recién termina su período de formación tiene menos urgencia que un supervisor consolidado con 5 años de ejercicio. Pero cuanto antes se estructure, antes empiezan a acumularse los beneficios año tras año.",
         ],
       },
       {
@@ -187,8 +187,8 @@ export const ARTICLES: Article[] = [
       {
         h: "Barrera de entrada que premia a los altos ingresos",
         p: [
-          "Invertir en un departamento exige capital, calificación crediticia y paciencia. Las tres cosas son abundantes en un profesional de la minería consolidado, y escasas en el promedio. Esa asimetría convierte al inmobiliario en una categoría donde el médico no compite contra todo el mercado, sino contra una fracción pequeña: otros profesionales de alta renta.",
-          "En mercados donde todos pueden entrar fácilmente, las oportunidades se agotan rápido y los retornos se comprimen. En el inmobiliario, la barrera natural mantiene los retornos atractivos para quienes sí pueden entrar. Es exactamente la dinámica que un médico inversionista debe buscar: un mercado donde su perfil es una ventaja, no un obstáculo.",
+          "Invertir en un departamento exige capital, calificación crediticia y paciencia. Las tres cosas son abundantes en un profesional de la minería consolidado, y escasas en el promedio. Esa asimetría convierte al inmobiliario en una categoría donde el minero no compite contra todo el mercado, sino contra una fracción pequeña: otros profesionales de alta renta.",
+          "En mercados donde todos pueden entrar fácilmente, las oportunidades se agotan rápido y los retornos se comprimen. En el inmobiliario, la barrera natural mantiene los retornos atractivos para quienes sí pueden entrar. Es exactamente la dinámica que un minero inversionista debe buscar: un mercado donde su perfil es una ventaja, no un obstáculo.",
         ],
       },
     ],
@@ -203,11 +203,11 @@ export const ARTICLES: Article[] = [
     slug: "guia-inversion-2026-dueno-de-tu-tiempo",
     category: "Guía 2026",
     title:
-      "Guía de Inversión 2026: de médico a dueño de su tiempo",
+      "Guía de Inversión 2026: de minero a dueño de su tiempo",
     metaDescription:
-      "El camino paso a paso para construir $300M en patrimonio inmobiliario antes de los 50 años sin sacrificar tu práctica clínica. Guía completa 2026 para profesionales de la minería en Chile.",
+      "El camino paso a paso para construir $300M en patrimonio inmobiliario antes de los 50 años sin sacrificar tu labor diaria. Guía completa 2026 para profesionales de la minería en Chile.",
     excerpt:
-      "El camino paso a paso para construir $300M en patrimonio antes de los 50 años sin sacrificar tu práctica clínica.",
+      "El camino paso a paso para construir $300M en patrimonio antes de los 50 años sin sacrificar tu labor diaria.",
     cover: STOCK.blogGuia,
     readMinutes: 12,
     publishedAt: "2026-04-08",
@@ -221,7 +221,7 @@ export const ARTICLES: Article[] = [
     ],
     intro: [
       "La libertad financiera no es un número abstracto. Para un especialista en Chile, es un punto concreto: el momento en que tus activos generan suficiente renta para que ejercer sea una elección y no una necesidad. En el marco inmobiliario chileno, ese punto se ubica típicamente cerca de los $300 millones de patrimonio neto.",
-      "Con esa cifra, una renta pasiva mensual bruta cercana al millón y medio de pesos se vuelve realista. No es riqueza extrema: es autonomía. Es la posibilidad de trabajar los pacientes que quieres, no todos los que puedes, y de heredar a tus hijos algo más que tu credencial.",
+      "Con esa cifra, una renta pasiva mensual bruta cercana al millón y medio de pesos se vuelve realista. No es riqueza extrema: es autonomía. Es la posibilidad de trabajar los labor que quieres, no todos los que puedes, y de heredar a tus hijos algo más que tu credencial.",
       "Esta guía es el mapa de ruta para llegar ahí antes de los 50 años, empezando hoy.",
     ],
     sections: [
@@ -242,7 +242,7 @@ export const ARTICLES: Article[] = [
         h: "Paso 2: Define el número que quieres alcanzar",
         p: [
           "La meta de $300 millones no es una convención: es el resultado de un cálculo simple. Suponiendo una renta pasiva anual del 5% bruto, ese patrimonio genera $15 millones al año, equivalentes a $1,25 millones mensuales antes de impuestos. Es la banda mínima para que un especialista mantenga su calidad de vida sin depender del ejercicio activo.",
-          "Por supuesto, la meta se puede ajustar a tu realidad. Un médico en regiones con costo de vida menor puede apuntar a $200 millones. Un especialista con familia numerosa y educación privada puede necesitar $500 millones. La meta es personal, pero el método para llegar es universal.",
+          "Por supuesto, la meta se puede ajustar a tu realidad. Un minero en regiones con costo de vida menor puede apuntar a $200 millones. Un especialista con familia numerosa y educación privada puede necesitar $500 millones. La meta es personal, pero el método para llegar es universal.",
         ],
       },
       {
@@ -269,7 +269,7 @@ export const ARTICLES: Article[] = [
       {
         h: "Paso 6: Automatiza la gestión",
         p: [
-          "Un portafolio inmobiliario de 5 deptos administrado por el mismo médico es una carga operativa enorme: arriendos, morosidades, reparaciones, declaración de rentas, contratos. Eso consume el tiempo que originalmente querías liberar. La solución no es administrarlo mejor: es delegarlo profesionalmente.",
+          "Un portafolio inmobiliario de 5 deptos administrado por el mismo minero es una carga operativa enorme: arriendos, morosidades, reparaciones, declaración de rentas, contratos. Eso consume el tiempo que originalmente querías liberar. La solución no es administrarlo mejor: es delegarlo profesionalmente.",
           "Hoy existen empresas especializadas en gestión de arriendo para inversionistas de alta renta. Cobran entre 6% y 10% de la renta bruta, pero a cambio se encargan de todo: búsqueda de arrendatario, firma de contratos, cobranza, pagos de gastos comunes, declaraciones tributarias del arriendo, reparaciones menores. El ahorro de tiempo y energía vale cada peso.",
         ],
       },
@@ -309,15 +309,15 @@ export const ARTICLES: Article[] = [
     ],
     intro: [
       "El crédito hipotecario es el mayor multiplicador que existe legalmente en Chile. Con un pie del 20%, el banco te financia el 80% del activo y tú capturas el 100% de la apreciación. Pero esa misma herramienta, mal negociada, puede encadenarte con una tasa demasiado alta durante 25 años.",
-      "Para un médico, negociar bien el crédito hipotecario vale más que elegir bien el departamento. Este artículo es una guía práctica para entender cómo te ven los bancos, qué palancas tienes a tu favor y cómo extraer la mejor tasa del mercado.",
+      "Para un minero, negociar bien el crédito hipotecario vale más que elegir bien el departamento. Este artículo es una guía práctica para entender cómo te ven los bancos, qué palancas tienes a tu favor y cómo extraer la mejor tasa del mercado.",
     ],
     sections: [
       {
         h: "Cómo evalúan los bancos a un profesional de la minería",
         p: [
           "Los bancos en Chile evalúan un crédito hipotecario sobre tres pilares: capacidad de pago, estabilidad de ingresos y comportamiento crediticio. Los mineros y tecnólogos mineros suelen destacar en los tres.",
-          "En capacidad de pago, los ingresos profesionales de la minería generalmente superan con holgura el múltiplo exigido de dividendo/renta. En estabilidad, el ejercicio clínico se percibe como una actividad resiliente frente a ciclos económicos. Y en comportamiento, un médico joven rara vez arrastra morosidades, lo que lo ubica entre los perfiles más deseados por los ejecutivos hipotecarios.",
-          "Ese posicionamiento es una palanca real. La mayoría de los bancos tiene canales preferenciales (no siempre publicitados) para convenios con asociaciones médicas, clínicas y universidades. Ingresar por el canal correcto puede significar entre 50 y 100 puntos base de diferencia en la tasa final: miles de UF en 25 años.",
+          "En capacidad de pago, los ingresos profesionales de la minería generalmente superan con holgura el múltiplo exigido de dividendo/renta. En estabilidad, el ejercicio clínico se percibe como una actividad resiliente frente a ciclos económicos. Y en comportamiento, un minero joven rara vez arrastra morosidades, lo que lo ubica entre los perfiles más deseados por los ejecutivos hipotecarios.",
+          "Ese posicionamiento es una palanca real. La mayoría de los bancos tiene canales preferenciales (no siempre publicitados) para convenios con asociaciones mineras, clínicas y universidades. Ingresar por el canal correcto puede significar entre 50 y 100 puntos base de diferencia en la tasa final: miles de UF en 25 años.",
         ],
       },
       {
@@ -353,7 +353,7 @@ export const ARTICLES: Article[] = [
       {
         h: "Estrategia de apalancamiento progresivo",
         p: [
-          "La diferencia entre un médico con un departamento y uno con cinco, generalmente no está en cuánto ahorran por mes. Está en cómo usan el crédito. La estrategia de apalancamiento progresivo consiste en reutilizar la plusvalía acumulada de una propiedad para financiar el pie de la siguiente.",
+          "La diferencia entre un minero con un departamento y uno con cinco, generalmente no está en cuánto ahorran por mes. Está en cómo usan el crédito. La estrategia de apalancamiento progresivo consiste en reutilizar la plusvalía acumulada de una propiedad para financiar el pie de la siguiente.",
           "A los 3-4 años de adquirido el primer depto, su valor de mercado suele haber crecido entre 15% y 25% y la deuda haber bajado por amortización. Esa diferencia (equity) puede respaldar, mediante crédito o refinanciamiento, el pie del segundo departamento. Repetido con disciplina, ese mecanismo permite construir un portafolio de 4-5 deptos sin necesidad de aportar cada pie completo desde ahorro fresco.",
         ],
       },
@@ -370,7 +370,7 @@ export const ARTICLES: Article[] = [
     category: "Tributario",
     title: "Impuesto Global Complementario: cómo pagan menos los especialistas",
     metaDescription:
-      "Tramos del Impuesto Global Complementario 2026, estrategias legales para reducir la base imponible del médico y calendario fiscal del año.",
+      "Tramos del Impuesto Global Complementario 2026, estrategias legales para reducir la base imponible del minero y calendario fiscal del año.",
     excerpt:
       "Cómo funciona el Global Complementario, cuánto pierdes realmente con boletas de honorarios y las palancas legales para pagar menos.",
     cover: STOCK.blogTributario,
@@ -386,34 +386,34 @@ export const ARTICLES: Article[] = [
     ],
     intro: [
       "El Impuesto Global Complementario (IGC) es, para la mayoría de los mineros en Chile, el mayor gasto anual después de la vivienda. Y también el menos visible: no aparece como un débito mensual, no se siente en el flujo de caja, pero aparece de golpe en abril con un monto que puede equivaler a 2 o 3 meses de ingresos netos.",
-      "Entender cómo funciona y qué palancas legales existen para reducirlo es, probablemente, la mejor inversión de tiempo que un médico joven puede hacer en materia financiera. En este artículo revisamos los tramos vigentes, cómo te golpea cuando facturas por boleta de honorarios, y qué estructuras y movimientos concretos pueden bajarte legalmente la cuenta.",
+      "Entender cómo funciona y qué palancas legales existen para reducirlo es, probablemente, la mejor inversión de tiempo que un minero joven puede hacer en materia financiera. En este artículo revisamos los tramos vigentes, cómo te golpea cuando facturas por boleta de honorarios, y qué estructuras y movimientos concretos pueden bajarte legalmente la cuenta.",
     ],
     sections: [
       {
         h: "Cómo funciona el Global Complementario",
         p: [
           "El IGC es un impuesto progresivo que grava la renta anual total de las personas naturales en Chile. Progresivo significa que tiene tramos: los primeros ingresos tributan a tasa baja (o 0%) y los tramos superiores tributan a tasas cada vez más altas, hasta un máximo del 40%.",
-          "En términos prácticos, cuando un médico factura por boleta de honorarios, el SII le retiene inicialmente un 13% al momento de emitir cada boleta. Esa retención es un pago a cuenta: en la Operación Renta de abril del año siguiente, se recalcula la cifra real según el tramo final del médico y se ajusta con un pago adicional (casi siempre) o, raramente, con una devolución.",
+          "En términos prácticos, cuando un minero factura por boleta de honorarios, el SII le retiene inicialmente un 13% al momento de emitir cada boleta. Esa retención es un pago a cuenta: en la Operación Renta de abril del año siguiente, se recalcula la cifra real según el tramo final del minero y se ajusta con un pago adicional (casi siempre) o, raramente, con una devolución.",
           "Para un especialista que factura entre $60 y $120 millones anuales por honorarios, el tramo marginal termina típicamente entre el 30,4% y el 35%. Eso significa que, sobre cada peso adicional ganado en la franja alta, más de un tercio se va al SII.",
         ],
       },
       {
         h: "Boleta de honorarios vs. Sociedad de Profesionales",
         p: [
-          "La mayor diferencia estructural para un médico está en el vehículo con que cobra sus servicios. Emitir boletas de honorarios envía cada peso directamente al tramo marginal del Global Complementario. Cobrar a través de una Sociedad de Profesionales permite que las utilidades tributen primero en primera categoría (con tasas corporativas, mucho más bajas) y solo lleguen al IGC cuando se retiran efectivamente.",
+          "La mayor diferencia estructural para un minero está en el vehículo con que cobra sus servicios. Emitir boletas de honorarios envía cada peso directamente al tramo marginal del Global Complementario. Cobrar a través de una Sociedad de Profesionales permite que las utilidades tributen primero en primera categoría (con tasas corporativas, mucho más bajas) y solo lleguen al IGC cuando se retiran efectivamente.",
           "Esto crea un diferimiento tributario: puedes mantener utilidades en la sociedad, reinvertirlas en activos inmobiliarios u otros vehículos, y tributar el Global Complementario solo cuando efectivamente retires utilidades para consumo personal. En términos financieros, es como tener un crédito fiscal sin intereses.",
         ],
       },
       {
         h: "Gastos deducibles: el detalle que cambia todo",
         p: [
-          "Cuando un médico opera como persona natural con boletas de honorarios, tiene derecho a una rebaja presunta del 30% de sus ingresos brutos (con tope anual) por gastos necesarios para producir la renta. Ese es un buen punto de partida, pero es un tope.",
+          "Cuando un minero opera como persona natural con boletas de honorarios, tiene derecho a una rebaja presunta del 30% de sus ingresos brutos (con tope anual) por gastos necesarios para producir la renta. Ese es un buen punto de partida, pero es un tope.",
           "Cuando opera a través de una Sociedad de Profesionales, puede deducir los gastos efectivos y documentados que sean necesarios para su ejercicio. Entre los más relevantes están:",
         ],
         list: {
           items: [
             "Arriendo o gastos asociados al espacio de consulta u oficina.",
-            "Equipamiento médico, insumos clínicos y material técnico.",
+            "Equipamiento minero, insumos clínicos y material técnico.",
             "Capacitaciones, congresos, cursos de especialización y suscripciones académicas.",
             "Honorarios de contador, asesor tributario y asesor legal.",
             "Vehículo y combustible asociados al ejercicio profesional.",
@@ -424,14 +424,14 @@ export const ARTICLES: Article[] = [
       {
         h: "APV: la palanca que casi nadie usa al máximo",
         p: [
-          "El Ahorro Previsional Voluntario (APV) es la herramienta más accesible de reducción de IGC, y sin embargo, casi ningún médico la usa hasta el tope. En su modalidad A (régimen general), permite deducir hasta 50 UF mensuales de la base imponible. En la modalidad B (régimen con beneficio estatal), el Estado aporta un 15% del monto depositado anualmente, con tope.",
-          "Para un médico en tramo alto, cada peso ahorrado en APV A se traduce en una reducción inmediata de entre 30 y 35 centavos en su IGC. Es una rentabilidad fiscal cierta, garantizada y sin riesgo de mercado. El único costo es la liquidez: esos fondos quedan restringidos hasta la jubilación, salvo situaciones específicas.",
+          "El Ahorro Previsional Voluntario (APV) es la herramienta más accesible de reducción de IGC, y sin embargo, casi ningún minero la usa hasta el tope. En su modalidad A (régimen general), permite deducir hasta 50 UF mensuales de la base imponible. En la modalidad B (régimen con beneficio estatal), el Estado aporta un 15% del monto depositado anualmente, con tope.",
+          "Para un minero en tramo alto, cada peso ahorrado en APV A se traduce en una reducción inmediata de entre 30 y 35 centavos en su IGC. Es una rentabilidad fiscal cierta, garantizada y sin riesgo de mercado. El único costo es la liquidez: esos fondos quedan restringidos hasta la jubilación, salvo situaciones específicas.",
         ],
       },
       {
-        h: "El calendario fiscal del médico",
+        h: "El calendario fiscal del minero",
         p: [
-          "La Operación Renta en Chile se hace todos los abriles y cubre el año calendario anterior. Pero las decisiones que impactan esa declaración se toman durante todo el año. Un médico bien asesorado trabaja con dos plazos críticos:",
+          "La Operación Renta en Chile se hace todos los abriles y cubre el año calendario anterior. Pero las decisiones que impactan esa declaración se toman durante todo el año. Un minero bien asesorado trabaja con dos plazos críticos:",
         ],
         list: {
           items: [
@@ -443,14 +443,14 @@ export const ARTICLES: Article[] = [
       {
         h: "El ahorro real medido en años",
         p: [
-          "Consideremos un caso práctico concreto. Un médico que factura $100 millones brutos al año por boleta de honorarios, sin estructura adicional, paga aproximadamente $20 a $25 millones en Global Complementario. Ese mismo médico, estructurado en Sociedad de Profesionales, con APV maximizado y gastos deducibles bien documentados, puede reducir esa cuenta en un 30% a 40%.",
-          "Eso son $7 a $10 millones anuales de ahorro fiscal legal. A 10 años, sin considerar efectos compuestos, son entre $70 y $100 millones. Suficiente para el pie de 4 a 5 departamentos. La diferencia entre un médico estructurado y uno sin estructura, medida en décadas, es literalmente todo su portafolio inmobiliario.",
+          "Consideremos un caso práctico concreto. Un minero que factura $100 millones brutos al año por boleta de honorarios, sin estructura adicional, paga aproximadamente $20 a $25 millones en Global Complementario. Ese mismo minero, estructurado en Sociedad de Profesionales, con APV maximizado y gastos deducibles bien documentados, puede reducir esa cuenta en un 30% a 40%.",
+          "Eso son $7 a $10 millones anuales de ahorro fiscal legal. A 10 años, sin considerar efectos compuestos, son entre $70 y $100 millones. Suficiente para el pie de 4 a 5 departamentos. La diferencia entre un minero estructurado y uno sin estructura, medida en décadas, es literalmente todo su portafolio inmobiliario.",
         ],
       },
     ],
     conclusion: [
       "El Global Complementario no se puede evadir ni reducir con atajos. Pero sí se puede optimizar legalmente con herramientas que el propio SII reconoce: Sociedad de Profesionales, APV, gastos deducibles documentados y planificación del calendario fiscal.",
-      "La diferencia entre un médico que paga todo lo que el primer cálculo indica y uno que usa las palancas disponibles, no es cultural ni de privilegio. Es de asesoría. Un experto tributario con conocimiento específico del gremio puede revisar tu Operación Renta del último año y mostrarte exactamente dónde estabas dejando dinero sobre la mesa.",
+      "La diferencia entre un minero que paga todo lo que el primer cálculo indica y uno que usa las palancas disponibles, no es cultural ni de privilegio. Es de asesoría. Un experto tributario con conocimiento específico del gremio puede revisar tu Operación Renta del último año y mostrarte exactamente dónde estabas dejando dinero sobre la mesa.",
     ],
   },
 
@@ -460,7 +460,7 @@ export const ARTICLES: Article[] = [
     category: "Inmobiliario",
     title: "Dónde invertir en Santiago: guía por comuna para profesionales de alta renta",
     metaDescription:
-      "Ñuñoa, Las Condes, San Miguel, Santiago Centro: análisis de plusvalía, rentabilidad y perfil de cada comuna para inversión inmobiliaria médica en 2026.",
+      "Ñuñoa, Las Condes, San Miguel, Santiago Centro: análisis de plusvalía, rentabilidad y perfil de cada comuna para inversión inmobiliaria minera en 2026.",
     excerpt:
       "Ñuñoa, Las Condes, San Miguel, Santiago Centro: análisis comparativo de plusvalía, rentabilidad y perfil de arrendatario por comuna.",
     cover: STOCK.blogInmobiliario,
@@ -475,7 +475,7 @@ export const ARTICLES: Article[] = [
       "departamentos en verde",
     ],
     intro: [
-      "La pregunta que todo médico se hace antes de su primera inversión: ¿dónde comprar? En Santiago hay más de 30 comunas con oferta de departamentos nuevos, pero solo 4 a 5 concentran la mayor parte del interés inversionista: Ñuñoa, Las Condes, San Miguel, Santiago Centro y Providencia.",
+      "La pregunta que todo minero se hace antes de su primera inversión: ¿dónde comprar? En Santiago hay más de 30 comunas con oferta de departamentos nuevos, pero solo 4 a 5 concentran la mayor parte del interés inversionista: Ñuñoa, Las Condes, San Miguel, Santiago Centro y Providencia.",
       "Cada una tiene un perfil distinto de plusvalía esperada, cap rate de arriendo, tipo de arrendatario y rango de precio. Elegir la comuna correcta para tu etapa y perfil financiero puede significar la diferencia entre un activo que crece 3% o que crece 6% anual durante la próxima década.",
       "En este artículo te llevamos zona por zona con una mirada práctica de inversionista, no de corredor de propiedades.",
     ],
@@ -524,7 +524,7 @@ export const ARTICLES: Article[] = [
       {
         h: "Qué comunas evitar (al menos como primer depto)",
         p: [
-          "Hay zonas donde la oferta parece atractiva pero el perfil de inversión no cuadra con lo que busca un médico: baja demanda de arriendo, plusvalía negativa en ciclos de corrección, o alta dependencia de factores coyunturales.",
+          "Hay zonas donde la oferta parece atractiva pero el perfil de inversión no cuadra con lo que busca un minero: baja demanda de arriendo, plusvalía negativa en ciclos de corrección, o alta dependencia de factores coyunturales.",
         ],
         list: {
           items: [

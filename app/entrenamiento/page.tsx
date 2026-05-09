@@ -9,9 +9,9 @@ import { TEAM } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title:
-    "Entrenamiento Inmobiliario para Mineros | Centro de Diagnóstico y Tratamiento Patrimonial",
+    "Entrenamiento Inmobiliario para Mineros | Centro de Diagnóstico y Estrategia Patrimonial",
   description:
-    "Registro gratuito. Aprende cómo siendo médico y con acceso a crédito hipotecario puedes invertir en 2 o más propiedades con un plan específico para tu etapa profesional.",
+    "Registro gratuito. Aprende cómo siendo minero y con acceso a crédito hipotecario puedes invertir en 2 o más propiedades con un plan específico para tu etapa profesional.",
   alternates: { canonical: "/entrenamiento" },
 };
 
@@ -19,7 +19,7 @@ const BENEFICIOS = [
   {
     icon: "analytics",
     title: "Tu punto de partida real",
-    body: "Cómo se lee tu capacidad de inversión según tu etapa médica, tu renta y tu carga financiera.",
+    body: "Cómo se lee tu capacidad de inversión según tu etapa profesional, tu renta y tu carga financiera.",
   },
   {
     icon: "vpn_key",
@@ -39,10 +39,10 @@ const BENEFICIOS = [
 ];
 
 const STATS = [
-  { valor: "+500", label: "mineros asesorados" },
-  { valor: "+10", label: "años de trayectoria" },
-  { valor: "USD 20M", label: "invertidos con nosotros" },
   { valor: "$0", label: "comisión al cliente" },
+  { valor: "100%", label: "transparencia tributaria" },
+  { valor: "DFL2", label: "estructurado correctamente" },
+  { valor: "360°", label: "acompañamiento real" },
 ];
 
 const FOUNDERS = TEAM.slice(0, 2);
@@ -64,15 +64,15 @@ export default function EntrenamientoPage() {
           <div className="relative max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-10 md:py-16 grid grid-cols-1 lg:grid-cols-[1.3fr_1fr] gap-10 lg:gap-14 items-center">
             <div>
               <p className="font-heading font-bold text-[11px] tracking-[4px] uppercase text-[#E8C28A] mb-4">
-                Entrenamiento gratuito · Centro de Diagnóstico y Tratamiento Patrimonial
+                Entrenamiento gratuito · Centro de Diagnóstico y Estrategia Patrimonial
               </p>
               <h1 className="font-heading font-extrabold text-[26px] sm:text-[34px] md:text-[42px] lg:text-[48px] leading-[1.1] tracking-[-0.015em] mb-5">
-                Aprende cómo siendo médico y con acceso a crédito hipotecario
+                Aprende cómo siendo minero y con acceso a crédito hipotecario
                 puedes invertir en{" "}
                 <span className="text-[#B67A2D]">2 o más propiedades</span>
               </h1>
               <p className="font-body text-[15px] md:text-[18px] text-white/80 leading-relaxed mb-7 max-w-xl">
-                Con un plan específico para tu etapa médica y tu realidad,
+                Con un plan específico para tu etapa profesional y tu realidad,
                 usando el menor tiempo posible. Sin brokers genéricos, sin
                 improvisación, sin convertir esto en un segundo trabajo.
               </p>

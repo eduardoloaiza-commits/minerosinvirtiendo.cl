@@ -72,7 +72,7 @@ export default function LeadReminder() {
           className="material-symbols-outlined text-[#B67A2D] text-[28px] shrink-0"
           style={{ fontVariationSettings: "'FILL' 1" }}
         >
-          medical_services
+          engineering
         </span>
         <div>
           <p className="font-heading font-bold text-[15px] text-[#2B2B2B] leading-snug">

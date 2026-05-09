@@ -9,7 +9,7 @@ import { LEAD_FORM_URL, STOCK } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Inversión Inmobiliaria para Mineros | Mineros Invirtiendo",
   description:
-    "Diseñamos un portafolio inmobiliario estructurado para tu etapa médica, tu capacidad crediticia y tu objetivo patrimonial. Sin convertir la inversión en un segundo trabajo.",
+    "Diseñamos un portafolio inmobiliario estructurado para tu etapa profesional, tu capacidad crediticia y tu objetivo patrimonial. Sin convertir la inversión en un segundo trabajo.",
   alternates: {
     canonical: "/servicios/inversion-departamentos-alta-plusvalia",
   },
@@ -34,7 +34,7 @@ const CRITERIOS = [
   {
     icon: "shield",
     title: "Estructura crediticia sólida",
-    body: "Negociamos con varios bancos para que el crédito calce con tu flujo médico, no al revés.",
+    body: "Negociamos con varios bancos para que el crédito calce con tu flujo minero, no al revés.",
   },
 ];
 
@@ -69,11 +69,11 @@ export default function InversionInmobiliariaPage() {
             </p>
             <h1 className="font-heading font-bold text-[26px] sm:text-[34px] md:text-[44px] text-[#2B2B2B] leading-tight tracking-[-0.02em] mb-6">
               Invierte en departamentos con{" "}
-              <span className="text-[#B67A2D]">rigor médico</span>.
+              <span className="text-[#B67A2D]">rigor minero</span>.
             </h1>
             <p className="font-body text-[16px] md:text-[18px] text-[#4A463E] leading-relaxed mb-8">
               No te llenamos de proyectos. Diseñamos un portafolio coherente
-              con tu etapa médica, tu capacidad crediticia y tu objetivo
+              con tu etapa profesional, tu capacidad crediticia y tu objetivo
               patrimonial. Tú decides; nosotros ejecutamos.
             </p>
             <div className="flex flex-wrap gap-3">

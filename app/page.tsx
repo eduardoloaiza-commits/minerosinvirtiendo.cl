@@ -20,25 +20,25 @@ const HERO_SLIDES = [
   },
   {
     src: STOCK.heroBanner2,
-    alt: "Médico iniciando su plan patrimonial",
+    alt: "Minero iniciando su plan patrimonial",
   },
   {
     src: STOCK.heroDoctor,
-    alt: "Profesional de la minería en consulta moderna",
+    alt: "Profesional minero en operación industrial moderna",
   },
 ];
 
 export const metadata: Metadata = {
   title: "Inversión Inmobiliaria para Mineros en Chile | Construye tu patrimonio",
   description:
-    "Un equipo de expertos inmobiliarios con +10 años de trayectoria. +500 mineros asesorados. Construye un patrimonio sólido con inversión en departamentos y gestión patrimonial, sin comisiones al cliente.",
+    "Asesoría especializada en inversión inmobiliaria y gestión patrimonial para profesionales de la minería en Chile. Construye un patrimonio sólido con inversión en departamentos, sin comisiones al cliente.",
 };
 
 const PAIN_POINTS = [
   {
     icon: "schedule",
-    title: "Te sobran turnos, te falta tiempo",
-    body: "Tu renta médica es alta, pero gestionar inversiones exige atención que simplemente no tienes. Nosotros hacemos el trabajo duro.",
+    title: "Tu turno es largo, tu tiempo es escaso",
+    body: "Trabajas en sistemas de turnos exigentes y la inversión patrimonial requiere una atención que simplemente no tienes. Nosotros hacemos el trabajo duro por ti.",
   },
   {
     icon: "trending_down",
@@ -48,14 +48,14 @@ const PAIN_POINTS = [
   {
     icon: "receipt",
     title: "Pagas más impuestos de los que deberías",
-    body: "Sin una estructura legal adecuada, tus boletas de honorarios destinan demasiado a Global Complementario. Hay caminos legales para optimizarlo.",
+    body: "Sin una estructura legal adecuada, tu sueldo y bonos destinan demasiado a Global Complementario. Hay caminos legales para optimizarlo.",
   },
 ];
 
 const METODO = [
-  { step: "01", title: "Anamnesis financiera y patrimonial" },
-  { step: "02", title: "Diseño de Tratamiento inmobiliario" },
-  { step: "03", title: "Aplicar la Medicina Inmobiliaria" },
+  { step: "01", title: "Sondaje financiero y patrimonial" },
+  { step: "02", title: "Diseño de Estrategia inmobiliaria" },
+  { step: "03", title: "Aplicar la Estrategia Inmobiliaria" },
 ];
 
 export default function HomePage() {
@@ -71,12 +71,11 @@ export default function HomePage() {
               Exclusivo para mineros en Chile
             </span>
             <h1 className="font-heading font-bold text-[22px] sm:text-[26px] md:text-[30px] lg:text-[36px] text-[#2B2B2B] mb-5 md:mb-6 leading-[1.2] tracking-[-0.015em] max-w-[640px]">
-              Si eres médico y tienes acceso a crédito hipotecario te ayudamos a invertir en{" "}
+              Si trabajas en la minería y tienes acceso a crédito hipotecario te ayudamos a invertir en{" "}
               <span className="text-[#B67A2D]">2 o más propiedades</span>, usando el menor tiempo posible, optimizando tus impuestos y mejorando tu jubilación.
             </h1>
             <p className="font-body font-normal text-[15px] md:text-[16px] text-[#4A463E] mb-7 md:mb-9 max-w-[600px] leading-relaxed">
-              Método exclusivo para mineros con el respaldo de un equipo con <strong className="text-[#2B2B2B]">más de 10 años de experiencia</strong> y <strong className="text-[#2B2B2B]">más de 500 mineros asesorados</strong>.
-              Somos los únicos asesores inmobiliarios de <strong className="text-[#2B2B2B]">AMCI</strong> y socios de la <strong className="text-[#2B2B2B]">Cámara Chilena de Comercio</strong>.
+              Método especialmente diseñado para profesionales mineros, con un equipo experto en <strong className="text-[#2B2B2B]">inversión inmobiliaria</strong> y <strong className="text-[#2B2B2B]">gestión patrimonial</strong>. Cero comisiones al cliente.
             </p>
             <div className="flex flex-col sm:flex-row flex-wrap gap-3 md:gap-4">
               <Link
@@ -109,8 +108,9 @@ export default function HomePage() {
                 ¿En qué etapa estás?
               </h2>
               <p className="font-body text-[15px] md:text-[17px] text-[#4A463E] mt-3 max-w-2xl mx-auto">
-                Tenemos un plan de inversión específico para cada etapa médica.
-                Elige la tuya y te mostramos la guía que corresponde.
+                Tenemos un plan de inversión específico para cada nivel dentro de
+                la organización minera. Elige el tuyo y te mostramos la guía
+                que corresponde.
               </p>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 md:gap-5">
@@ -125,7 +125,7 @@ export default function HomePage() {
                       className="material-symbols-outlined text-[#B67A2D] group-hover:text-white text-[22px] md:text-[24px] transition-colors"
                       style={{ fontVariationSettings: "'FILL' 1" }}
                     >
-                      medical_services
+                      engineering
                     </span>
                   </div>
                   <p className="font-heading font-bold text-[11px] tracking-[2px] uppercase text-[#B67A2D]">
@@ -190,7 +190,7 @@ export default function HomePage() {
                   Tu camino en 3 pasos
                 </p>
                 <h2 className="font-heading font-bold text-[22px] sm:text-[28px] md:text-[36px] text-[#2B2B2B] leading-tight tracking-[-0.01em]">
-                  De médico a inversionista
+                  De minero a inversionista patrimonial
                 </h2>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -259,7 +259,7 @@ export default function HomePage() {
                       className="material-symbols-outlined text-[#B67A2D] text-[80px]"
                       style={{ fontVariationSettings: "'FILL' 1" }}
                     >
-                      medical_services
+                      engineering
                     </span>
                   </div>
                 </div>

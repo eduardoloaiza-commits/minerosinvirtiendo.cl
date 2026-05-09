@@ -91,7 +91,7 @@ export const VSL_VIDEO = {
   ready: false,
   provider: "youtube" as "youtube" | "vimeo" | "custom",
   id: "",
-  title: "Centro de Diagnóstico y Tratamiento Patrimonial para Mineros",
+  title: "Centro de Diagnóstico y Estrategia Patrimonial para Mineros",
   posterText: "El video del entrenamiento se está preparando",
 };
 

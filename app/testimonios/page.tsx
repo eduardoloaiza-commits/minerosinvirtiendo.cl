@@ -8,7 +8,7 @@ import { LEAD_FORM_URL, VIDEO_TESTIMONIALS } from "@/lib/constants";
 export const metadata: Metadata = {
   title: "Testimonios | Mineros que ya estructuraron su patrimonio",
   description:
-    "Historias reales de mineros en Chile que pasaron por los tres pilares del método. Becados, especialistas y MGZ que confiaron su estrategia patrimonial al equipo.",
+    "Historias reales de mineros en Chile que pasaron por los tres pilares del método. Técnicos en formación, especialistas y Faena Extrema que confiaron su estrategia patrimonial al equipo.",
   alternates: { canonical: "/testimonios" },
 };
 
@@ -27,7 +27,7 @@ export default function TestimoniosPage() {
             <span className="text-[#B67A2D]">patrimonio</span>
           </h1>
           <p className="font-body text-[15px] md:text-[18px] text-[#4A463E] leading-relaxed max-w-2xl mx-auto">
-            Becados, especialistas y MGZ que pasaron por los tres pilares del
+            Técnicos en formación, especialistas y Faena Extrema que pasaron por los tres pilares del
             método y hoy hablan en primera persona. Sin guion, sin filtro.
           </p>
         </section>

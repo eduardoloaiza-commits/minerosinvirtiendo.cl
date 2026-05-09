@@ -119,7 +119,7 @@ export default function TransformateEnInversionistaPage() {
               <span className="text-[#B67A2D]">2 a 5 departamentos</span>
             </h2>
             <p className="font-body text-[14px] md:text-[17px] text-white/75 leading-relaxed max-w-2xl mx-auto mb-8">
-              Te explicamos paso a paso el método con el que hemos asesorado a +500 mineros en Chile.
+              Te explicamos paso a paso el método con el que hemos aplicamos con profesionales mineros en Chile.
             </p>
 
             <div className="relative rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl border border-white/10 bg-black max-w-5xl mx-auto aspect-video">

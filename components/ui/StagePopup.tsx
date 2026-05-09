@@ -7,7 +7,7 @@ import { ETAPAS } from "@/lib/etapas";
 const STORAGE_KEY = "mi_stage_popup_dismissed";
 
 /**
- * Pop-up que pregunta al usuario en qué etapa de su carrera médica se
+ * Pop-up que pregunta al usuario en qué etapa de su carrera profesional se
  * encuentra. Aparece una vez por navegador (localStorage) y permite entrar
  * directo a la landing específica de cada etapa.
  */
@@ -75,7 +75,7 @@ export default function StagePopup() {
             ¿En qué etapa estás?
           </h2>
           <p className="font-body text-[15px] md:text-[16px] text-[#4A463E] mb-7 leading-relaxed max-w-xl">
-            Tenemos un plan de inversión específico para cada etapa médica.
+            Tenemos un plan de inversión específico para cada etapa profesional.
             Elige la tuya y te mostramos la guía que corresponde.
           </p>
 
@@ -92,7 +92,7 @@ export default function StagePopup() {
                     className="material-symbols-outlined text-[#B67A2D] group-hover:text-white text-[22px] md:text-[24px] transition-colors"
                     style={{ fontVariationSettings: "'FILL' 1" }}
                   >
-                    medical_services
+                    engineering
                   </span>
                 </div>
                 <div className="flex-1 min-w-0">

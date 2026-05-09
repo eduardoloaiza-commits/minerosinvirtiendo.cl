@@ -416,7 +416,7 @@ export default function LeadForm({
               className="material-symbols-outlined text-[#B67A2D] shrink-0"
               style={{ fontVariationSettings: "'FILL' 1" }}
             >
-              medical_services
+              engineering
             </span>
             <p>
               Esta información nos ayuda a personalizar el diagnóstico según tu

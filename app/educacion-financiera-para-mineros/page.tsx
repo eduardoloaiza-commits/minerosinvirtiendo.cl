@@ -43,7 +43,7 @@ export default function EducacionPage() {
               Hub · Educación Financiera
             </p>
             <h1 className="font-heading font-bold text-[26px] sm:text-[36px] md:text-[52px] text-white leading-tight tracking-[-0.02em] max-w-3xl mb-6">
-              Guías y análisis para <span className="text-[#E8C28A]">mentes médicas</span>
+              Guías y análisis para <span className="text-[#E8C28A]">mentes mineras</span>
             </h1>
             <p className="font-body text-[18px] text-white/80 max-w-2xl leading-relaxed">
               Contenido con el detalle técnico que un profesional de la minería necesita: inversión inmobiliaria en Chile, estructura tributaria, crédito hipotecario y estrategia patrimonial a 10 años.

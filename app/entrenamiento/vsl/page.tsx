@@ -13,7 +13,7 @@ import {
 
 export const metadata: Metadata = {
   title:
-    "Sesión de Asesoría Gratuita | Centro de Diagnóstico y Tratamiento Patrimonial",
+    "Sesión de Asesoría Gratuita | Centro de Diagnóstico y Estrategia Patrimonial",
   description:
     "Agenda una sesión para optimizar recursos, impuestos y decisiones según tu etapa profesional. Sin tratamientos genéricos, con un equipo experto en mineros.",
   alternates: { canonical: "/entrenamiento/vsl" },
@@ -24,44 +24,44 @@ export const metadata: Metadata = {
 const PILARES = [
   {
     step: "01",
-    name: "Anamnesis",
-    title: "Anamnesis Financiera y Patrimonial",
+    name: "Sondaje",
+    title: "Sondaje Financiero y Patrimonial",
     body: "Diagnóstico real: cuánto puedes invertir, cómo está compuesta tu renta, qué carga tienes y qué decisiones calzan con tu etapa.",
   },
   {
     step: "02",
     name: "Diseño",
-    title: "Diseño de Tratamiento Inmobiliario",
-    body: "Un plan claro con 2 o 3 opciones que calzan con tu flujo, tu objetivo patrimonial y tu momento médico. No un catálogo.",
+    title: "Diseño de Estrategia Inmobiliaria",
+    body: "Un plan claro con 2 o 3 opciones que calzan con tu flujo, tu objetivo patrimonial y tu momento profesional. No un catálogo.",
   },
   {
     step: "03",
     name: "Aplicación",
-    title: "Aplicar la Medicina Inmobiliaria",
+    title: "Aplicar la Estrategia Inmobiliaria",
     body: "Ejecutamos contigo: crédito, documentación, firmas, arriendo y administración. No firmamos y desaparecemos.",
   },
 ];
 
-/* ── Casos reales (mismos del /metodo) ── */
+/* ── Casos ilustrativos (pendiente reemplazar con casos reales del cliente) ── */
 const CASOS = [
   {
     nombre: "Sergio",
-    etapa: "Médico EDF",
-    hecho: "3 departamentos estructurados usando solo el 50% de su capacidad de ahorro.",
+    etapa: "Operador con turno 7x7",
+    hecho: "3 departamentos estructurados usando solo el 50% de su capacidad de ahorro mensual.",
     metric: "+$500M",
     metricLabel: "patrimonio proyectado",
   },
   {
     nombre: "Gino",
-    etapa: "Especialista, crédito casi copado",
+    etapa: "Supervisor, crédito casi copado",
     hecho: "2 propiedades con 30% de su capacidad de ahorro y una estructura bien diseñada.",
     metric: "+$350M",
     metricLabel: "patrimonio construido",
   },
   {
     nombre: "Cristóbal",
-    etapa: "Urólogo · sociedad médica",
-    hecho: "Invirtió desde su sociedad médica optimizando más de $50M en impuestos.",
+    etapa: "Jefe de operaciones · consultoría minera",
+    hecho: "Invirtió desde su sociedad de consultoría optimizando más de $50M en impuestos.",
     metric: "$300M",
     metricLabel: "patrimonio proyectado",
   },
@@ -149,7 +149,7 @@ export default function VslPage() {
           />
           <div className="relative max-w-[1100px] mx-auto px-5 sm:px-6 lg:px-8 py-10 md:py-14 text-center">
             <p className="font-heading font-bold text-[11px] tracking-[4px] uppercase text-[#E8C28A] mb-3">
-              Centro de Diagnóstico y Tratamiento Patrimonial
+              Centro de Diagnóstico y Estrategia Patrimonial
             </p>
             <h1 className="font-heading font-extrabold text-[22px] sm:text-[28px] md:text-[36px] lg:text-[42px] leading-[1.15] tracking-[-0.015em] mb-4 max-w-4xl mx-auto">
               Si quieres optimizar recursos, impuestos y decisiones según tu
@@ -161,7 +161,7 @@ export default function VslPage() {
             </h1>
             <p className="font-body text-[14px] md:text-[17px] text-white/75 leading-relaxed max-w-2xl mx-auto mb-8">
               15 minutos. Sin relleno. Te mostramos cómo funciona el sistema
-              con el que hemos asesorado a +500 mineros en Chile.
+              que aplicamos con profesionales mineros en Chile.
             </p>
 
             {/* Video */}

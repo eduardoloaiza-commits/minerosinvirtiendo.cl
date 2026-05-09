@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 
 const VALORES = [
   {
-    icon: "medical_services",
+    icon: "engineering",
     title: "Entendemos tu realidad",
     body:
       "Como profesionales de la minería, conocemos las exigencias de tu carrera y las preocupaciones que tienes antes de invertir. Hablamos tu mismo idioma.",

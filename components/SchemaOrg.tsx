@@ -14,11 +14,11 @@ import { SITE_URL } from "@/lib/constants";
 const FAQ_GLOBAL = [
   {
     q: "¿Cuánto cuesta la asesoría?",
-    a: "La asesoría es gratuita para el médico. Cobramos un fee fijo a las inmobiliarias por llevar leads calificados. Tú nunca pagas comisiones.",
+    a: "La asesoría es gratuita para el minero. Cobramos un fee fijo a las inmobiliarias por llevar leads calificados. Tú nunca pagas comisiones.",
   },
   {
     q: "¿Cuánto capital necesito para empezar a invertir en departamentos?",
-    a: "El pie de un departamento tipo es alrededor de 20% del valor (ej: $18M para un depto de $90M). Con tu renta médica puedes acceder a crédito hipotecario al 80% restante.",
+    a: "El pie de un departamento tipo es alrededor de 20% del valor (ej: $18M para un depto de $90M). Con tu sueldo del minero puedes acceder a crédito hipotecario al 80% restante.",
   },
   {
     q: "¿Trabajan con mineros en regiones?",
@@ -26,7 +26,7 @@ const FAQ_GLOBAL = [
   },
   {
     q: "¿Cuánto tiempo toma construir un patrimonio de $300M?",
-    a: "Depende de tu capacidad de ahorro y del momento de tu carrera médica. Conversemos en una sesión gratuita y te entregamos un diagnóstico personalizado.",
+    a: "Depende de tu capacidad de ahorro y del momento de tu carrera profesional. Conversemos en una sesión gratuita y te entregamos un diagnóstico personalizado.",
   },
 ];
 
@@ -36,11 +36,11 @@ export default function SchemaOrg() {
     "@type": "FinancialService",
     "@id": `${SITE_URL}#financial-service`,
     name: "Mineros Invirtiendo",
-    alternateName: "MI",
+    alternateName: "MIN",
     description:
-      "Asesoría patrimonial e inversión inmobiliaria especializada para profesionales de la minería en Chile. 5 profesionales de la minería con +10 años en el mercado inmobiliario, sin comisiones al cliente.",
+      "Asesoría patrimonial e inversión inmobiliaria especializada para profesionales de la minería en Chile. Sin comisiones al cliente.",
     url: SITE_URL,
-    logo: `${SITE_URL}/logo.svg`,
+    logo: `${SITE_URL}/brand/logo.png`,
     inLanguage: "es-CL",
     areaServed: {
       "@type": "Country",
@@ -56,29 +56,11 @@ export default function SchemaOrg() {
       "Plusvalía inmobiliaria",
       "Crédito hipotecario UF",
       "Mercado inmobiliario chileno",
-      "Gestión patrimonial médica",
+      "Gestión patrimonial para profesionales mineros",
     ],
-    memberOf: [
-      {
-        "@type": "Organization",
-        name: "Cámara Chilena de Comercio",
-        alternateName: "CCS",
-        url: "https://www.ccs.cl/",
-      },
-      {
-        "@type": "Organization",
-        name: "ANSI, Asociación Nacional del Sector Inmobiliario",
-        alternateName: "ANSI",
-      },
-    ],
-    affiliation: {
-      "@type": "Organization",
-      name: "AMCI (Asociación de Mineros de la Clínica INDISA)",
-      description: "Convenio exclusivo de asesoría patrimonial para los mineros de Clínica INDISA",
-    },
     audience: {
       "@type": "Audience",
-      audienceType: "Profesionales de la Salud",
+      audienceType: "Profesionales Mineros",
       geographicArea: { "@type": "Country", name: "Chile" },
     },
     hasOfferCatalog: {

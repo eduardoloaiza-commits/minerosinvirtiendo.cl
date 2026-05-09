@@ -17,7 +17,7 @@ export default function Footer() {
             />
           </Link>
           <p className="text-[#6E6E6E] text-[14px] leading-relaxed mb-5">
-            Expertos en inversión inmobiliaria con +10 años de trayectoria, al servicio del profesional de la minería chileno. Estrategia, estructura tributaria eficiente y cero comisiones para ti.
+            Expertos en inversión inmobiliaria al servicio del profesional de la minería chileno. Estrategia, estructura tributaria eficiente y cero comisiones para ti.
           </p>
           <Link
             href={LEAD_FORM_URL}

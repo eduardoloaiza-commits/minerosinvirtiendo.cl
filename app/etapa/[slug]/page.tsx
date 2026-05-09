@@ -88,7 +88,7 @@ export default async function EtapaPage({ params }: { params: Params }) {
                 className="material-symbols-outlined text-[#E8C28A] text-[28px] md:text-[32px]"
                 style={{ fontVariationSettings: "'FILL' 1" }}
               >
-                medical_services
+                engineering
               </span>
             </div>
             <div className="flex-1 min-w-0">
@@ -352,7 +352,7 @@ export default async function EtapaPage({ params }: { params: Params }) {
                       className="material-symbols-outlined text-[#B67A2D] text-[64px]"
                       style={{ fontVariationSettings: "'FILL' 1" }}
                     >
-                      medical_services
+                      engineering
                     </span>
                   </div>
                 </div>

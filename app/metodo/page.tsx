@@ -7,9 +7,9 @@ import { LEAD_FORM_URL, VSL_URL } from "@/lib/constants";
 
 export const metadata: Metadata = {
   title:
-    "El Método | Centro de Diagnóstico y Tratamiento Patrimonial para Mineros",
+    "El Método | Centro de Diagnóstico y Estrategia Patrimonial para Mineros",
   description:
-    "No necesitas más vitrinas, necesitas un sistema. Diseñamos e implementamos una estrategia patrimonial coherente con tu etapa médica, capacidad crediticia y tiempo.",
+    "No necesitas más vitrinas, necesitas un sistema. Diseñamos e implementamos una estrategia patrimonial coherente con tu etapa profesional, capacidad crediticia y tiempo.",
   alternates: { canonical: "/metodo" },
 };
 
@@ -44,7 +44,7 @@ const POR_QUE_MEDICO = [
   {
     icon: "timeline",
     title: "En qué etapa de tu carrera estás",
-    body: "General, MGZ, becado o especialista: cada etapa tiene decisiones que aceleran o bloquean tu capacidad futura.",
+    body: "General, Faena Extrema, profesional en formación o especialista: cada etapa tiene decisiones que aceleran o bloquean tu capacidad futura.",
   },
   {
     icon: "credit_score",
@@ -57,30 +57,30 @@ const POR_QUE_MEDICO = [
     body: "Las decisiones de hoy no pueden bloquear el doctor que vas a ser en 5 años.",
   },
   {
-    icon: "medical_services",
+    icon: "engineering",
     title: "Sin desordenar tu foco clínico",
-    body: "El sistema está pensado para que inviertas bien sin que esto compita con tus pacientes ni tu energía.",
+    body: "El sistema está pensado para que inviertas bien sin que esto compita con tus labor ni tu energía.",
   },
 ];
 
 const PILARES = [
   {
     step: "01",
-    name: "Anamnesis",
-    title: "Anamnesis Financiera y Patrimonial",
-    body: "Hacemos un diagnóstico real de tu situación: cuánto puedes invertir, cómo está compuesta tu renta, qué carga financiera tienes, en qué etapa médica estás y qué decisiones tienen sentido sin comprometer tu capacidad de pago presente y futura.",
+    name: "Sondaje",
+    title: "Sondaje Financiero y Patrimonial",
+    body: "Hacemos un diagnóstico real de tu situación: cuánto puedes invertir, cómo está compuesta tu renta, qué carga financiera tienes, en qué etapa profesional estás y qué decisiones tienen sentido sin comprometer tu capacidad de pago presente y futura.",
     bullets: [
       "Lectura de ingresos, honorarios y sociedad",
       "Capacidad crediticia real y carga actual",
-      "Mapeo de etapa médica y proyección a 5 años",
+      "Mapeo de etapa profesional y proyección a 5 años",
       "Definición del objetivo patrimonial",
     ],
   },
   {
     step: "02",
     name: "Diseño",
-    title: "Diseño de Tratamiento Inmobiliario",
-    body: "Transformamos el diagnóstico en un plan claro. No para mostrarte 200 proyectos: para definir 2 o 3 opciones que realmente calcen con tu capacidad de pago, tu objetivo patrimonial y, sobre todo, tu momento médico.",
+    title: "Diseño de Estrategia Inmobiliaria",
+    body: "Transformamos el diagnóstico en un plan claro. No para mostrarte 200 proyectos: para definir 2 o 3 opciones que realmente calcen con tu capacidad de pago, tu objetivo patrimonial y, sobre todo, tu momento profesional.",
     bullets: [
       "2 a 3 alternativas curadas, no un catálogo",
       "Calce con flujo, crédito y etapa",
@@ -91,7 +91,7 @@ const PILARES = [
   {
     step: "03",
     name: "Aplicación",
-    title: "Aplicar la Medicina Inmobiliaria",
+    title: "Aplicar la Estrategia Inmobiliaria",
     body: "Ejecutamos contigo todo el proceso: buscamos el mejor crédito hipotecario, armamos tu documentación, coordinamos las firmas si tienes que viajar, y te acompañamos en la puesta en marcha con arriendo y administración.",
     bullets: [
       "Negociación de crédito con múltiples bancos",
@@ -110,7 +110,7 @@ const DIFERENCIA_NO = [
 
 const DIFERENCIA_SI = [
   "Es trabajo aplicado sobre tu caso real",
-  "Tomamos tus ingresos, etapa médica y objetivo",
+  "Tomamos tus ingresos, etapa profesional y objetivo",
   "Construimos contigo una estrategia que quede ejecutada",
   "Si no podemos generar impacto real, no trabajamos contigo",
 ];
@@ -118,7 +118,7 @@ const DIFERENCIA_SI = [
 const CASOS = [
   {
     nombre: "Sergio",
-    etapa: "Médico EDF",
+    etapa: "Faena Extrema",
     hecho: "3 departamentos estructurados usando solo el 50% de su capacidad de ahorro.",
     metric: "+$500M",
     metricLabel: "patrimonio proyectado",
@@ -132,8 +132,8 @@ const CASOS = [
   },
   {
     nombre: "Cristóbal",
-    etapa: "Urólogo · sociedad médica",
-    hecho: "Invirtió desde su sociedad médica optimizando más de $50M en impuestos.",
+    etapa: "Jefe de operaciones · sociedad minera",
+    hecho: "Invirtió desde su sociedad minera optimizando más de $50M en impuestos.",
     metric: "$300M",
     metricLabel: "patrimonio proyectado",
   },
@@ -143,7 +143,7 @@ const GARANTIAS = [
   {
     icon: "schedule",
     title: "Diagnóstico en 7 días",
-    body: "Si no te entregamos tu Diagnóstico y Tratamiento dentro de los primeros 7 días desde tu ingreso, devolvemos el 100% de lo pagado por acceder al método.",
+    body: "Si no te entregamos tu Diagnóstico y Estrategia dentro de los primeros 7 días desde tu ingreso, devolvemos el 100% de lo pagado por acceder al método.",
   },
   {
     icon: "paid",
@@ -173,7 +173,7 @@ export default function MetodoPage() {
           />
           <div className="relative max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-14 md:py-24">
             <p className="font-heading font-bold text-[11px] tracking-[4px] uppercase text-[#E8C28A] mb-5">
-              El Método · Centro de Diagnóstico y Tratamiento Patrimonial
+              El Método · Centro de Diagnóstico y Estrategia Patrimonial
             </p>
             <h1 className="font-heading font-extrabold text-[28px] sm:text-[36px] md:text-[48px] lg:text-[56px] leading-[1.1] tracking-[-0.02em] mb-6 max-w-4xl">
               No necesitas más vitrinas.{" "}
@@ -263,7 +263,7 @@ export default function MetodoPage() {
                 <p className="font-body text-[15px] md:text-[17px] text-[#4A463E] leading-relaxed">
                   El problema no es tu inteligencia ni tu capacidad. Es que no
                   tienes una estructura diseñada para ayudarte a invertir según
-                  tu realidad médica, proteger tu capacidad crediticia y
+                  tu realidad minera, proteger tu capacidad crediticia y
                   construir patrimonio de forma predecible.
                 </p>
               </div>
@@ -284,7 +284,7 @@ export default function MetodoPage() {
           </section>
         </FadeIn>
 
-        {/* ══ POR QUÉ UN MÉDICO NECESITA ASESORÍA DISTINTA ══ */}
+        {/* ══ POR QUÉ UN PROFESIONAL MINERO NECESITA ASESORÍA DISTINTA ══ */}
         <FadeIn>
           <section className="max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-12 md:py-20">
             <div className="text-center max-w-3xl mx-auto mb-10 md:mb-14">
@@ -292,7 +292,7 @@ export default function MetodoPage() {
                 Por qué no sirve la asesoría genérica
               </p>
               <h2 className="font-heading font-bold text-[22px] sm:text-[28px] md:text-[36px] text-[#2B2B2B] leading-tight tracking-[-0.01em]">
-                A un médico no se le puede asesorar como a un cliente genérico
+                A un minero no se le puede asesorar como a un cliente genérico
               </h2>
               <p className="font-body text-[15px] md:text-[17px] text-[#4A463E] leading-relaxed mt-4">
                 Hay que entender cómo está compuesta su renta, en qué etapa de
@@ -513,7 +513,7 @@ export default function MetodoPage() {
                     David Campos
                   </p>
                   <p className="font-body text-[11px] text-[#6E6E6E] leading-tight mt-0.5">
-                    Fundador · Centro de Diagnóstico y Tratamiento Patrimonial
+                    Fundador · Centro de Diagnóstico y Estrategia Patrimonial
                   </p>
                 </div>
               </div>
@@ -525,7 +525,7 @@ export default function MetodoPage() {
                   Soy David Campos
                 </h2>
                 <p className="font-body text-[15px] md:text-[17px] text-[#4A463E] leading-relaxed mb-4">
-                  Fundador del Centro de Diagnóstico y Tratamiento Patrimonial
+                  Fundador del Centro de Diagnóstico y Estrategia Patrimonial
                   de MedicosInvirtiendo.cl. Durante los últimos años hemos
                   trabajado con mineros en distintas etapas de su carrera para
                   ayudarlos a invertir con una lógica completamente distinta a

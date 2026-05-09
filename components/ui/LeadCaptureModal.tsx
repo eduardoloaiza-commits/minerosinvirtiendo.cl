@@ -21,10 +21,10 @@ const FIRST_DELAY_MS = 120_000;          // 2 min de engagement antes del primer
 const SESSION_DISMISS_KEY = "mi_lead_modal_dismissed";
 
 const ESPECIALIDADES = [
-  "Médico Cirujano",
-  "Médico Especialista",
-  "Residente / Becado",
-  "Tecnólogo Médico",
+  "Minero Cirujano",
+  "Minero Especialista",
+  "Residente / Profesional en formación",
+  "Tecnólogo Minero",
   "Enfermero/a",
   "Kinesiólogo/a",
   "Otro profesional de la minería",
@@ -198,7 +198,7 @@ export default function LeadCaptureModal() {
 
           <div>
             <label className="block font-heading font-semibold text-[12px] text-[#2B2B2B] mb-1.5">
-              Tu especialidad <span className="text-[#BA1A1A]">*</span>
+              Tu nivel <span className="text-[#BA1A1A]">*</span>
             </label>
             <div className="relative">
               <select

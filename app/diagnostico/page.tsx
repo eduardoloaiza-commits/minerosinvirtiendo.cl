@@ -111,7 +111,7 @@ export default async function DiagnosticoPage({
                   Un equipo de expertos, no de vendedores
                 </p>
                 <p className="text-white/60 text-[13px] leading-relaxed">
-                  +10 años estructurando inversiones inmobiliarias. Socios Cámara Chilena de Comercio, convenio AMCI y ANSI. +500 mineros asesorados en su estrategia patrimonial.
+                  Equipo experto en estructurar inversiones inmobiliarias para profesionales mineros. Cero comisiones al cliente.
                 </p>
               </div>
 

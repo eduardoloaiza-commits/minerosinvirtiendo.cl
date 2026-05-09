@@ -21,7 +21,7 @@ export default function VideoTestimonials({
   videos,
   eyebrow = "Testimonios",
   title = "Historias reales de profesionales que confiaron",
-  subtitle = "Escucha en primera persona cómo fue la experiencia de quienes dieron el paso de cuidar su patrimonio con la misma disciplina con que cuidan a sus pacientes.",
+  subtitle = "Escucha en primera persona cómo fue la experiencia de quienes dieron el paso de cuidar su patrimonio con la misma disciplina con que cuidan a su operación.",
 }: Props) {
   const [playing, setPlaying] = useState<VideoTestimonial | null>(null);
 
