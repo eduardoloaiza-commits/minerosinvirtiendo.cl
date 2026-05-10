@@ -15,8 +15,8 @@ const HERO_SLIDES = [
     alt: "Profesional minero junto a camión de operación en faena",
   },
   {
-    src: STOCK.heroMinerHelmet,
-    alt: "Trabajador minero con casco de seguridad",
+    src: STOCK.heroMinerOpenPit,
+    alt: "Mina a cielo abierto con operación de camiones",
   },
 ];
 

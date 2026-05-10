@@ -117,7 +117,9 @@ export const STOCK = {
   // Cuando lleguen fotos propias del equipo en faena, reemplazar acá. ──
   heroMinerTunnel:    unsplash("photo-1660748255246-80f24d317070", 1200), // minero en túnel subterráneo (Oyu Tolgoi)
   heroMinerTruck:     unsplash("photo-1622645916455-aa13b87438ec", 1200), // minero junto a camión amarillo (faena)
-  heroMinerHelmet:    unsplash("photo-1543357644-160b53c087e8", 1200),    // operario con casco amarillo de seguridad
+  heroMinerOpenPit:   unsplash("photo-1628487749130-2d41acb1802a", 1200), // mina a cielo abierto con camión (Kalgoorlie-Boulder)
+  // Alias mantenido por si algún código legacy lo referencia.
+  heroMinerHelmet:    unsplash("photo-1628487749130-2d41acb1802a", 1200),
 
   // ── Imágenes inmobiliarias (departamentos/edificios) usadas en páginas
   // de servicios, blog y como cover de artículos. NO usar en el hero
@@ -126,8 +128,8 @@ export const STOCK = {
   heroBuilding:       unsplash("photo-1502672260266-1c1ef2d93688", 1200),
   heroBanner2:        unsplash("photo-1622253694238-3b22139576c6", 1200),
   // Alias retrocompatible: heroMiner mantenido por si algún componente
-  // legacy lo referencia. Apunta a la foto del operario con casco.
-  heroMiner:          unsplash("photo-1543357644-160b53c087e8", 1200),
+  // legacy lo referencia. Apunta a la mina a cielo abierto.
+  heroMiner:          unsplash("photo-1628487749130-2d41acb1802a", 1200),
 
   // ── Placeholder brand assets — reemplazar por fotos reales del equipo ──
   heroTeam:           "/brand/logo.png",
