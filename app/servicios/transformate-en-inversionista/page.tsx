@@ -79,7 +79,7 @@ export default function TransformateEnInversionistaPage() {
   return (
     <>
       <Header />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* HERO: afirmación principal */}
         <section className="max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-14 md:py-20">
           <span className="inline-block px-3 py-1 bg-[#E8C28A] text-[#8A5A1F] text-[12px] font-body font-semibold tracking-[0.05em] uppercase rounded-full mb-6">

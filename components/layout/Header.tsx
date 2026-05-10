@@ -20,18 +20,22 @@ export default function Header() {
       : isActive(item.href);
 
   return (
-    <header className="fixed top-0 w-full z-50 bg-white/85 backdrop-blur-md border-b border-slate-100 shadow-sm">
-      <div className="max-w-[1280px] mx-auto px-4 lg:px-6 h-[68px] lg:h-[84px] flex items-center justify-between gap-4 lg:gap-6">
-        {/* Logo */}
+    <header className="fixed top-0 w-full z-50 bg-white backdrop-blur-md border-b border-slate-100 shadow-sm">
+      <div className="max-w-[1280px] mx-auto px-4 lg:px-6 h-[88px] lg:h-[104px] flex items-center justify-between gap-4 lg:gap-6">
+        {/* Logo: tamaño aumentado 1.5x respecto al original (48→76). El PNG
+            llega sin canal alpha desde el brandbook, así que aplicamos
+            mix-blend-multiply para fundir su fondo blanco con el header
+            blanco. Cuando lleguemos a tener un PNG/SVG con fondo
+            transparente real se puede quitar la clase mix-blend-multiply. */}
         <Link href="/" className="flex items-center shrink-0" aria-label="Mineros Invirtiendo">
           <Image
             src={LOGO_URL}
             alt="Mineros Invirtiendo"
-            width={360}
-            height={96}
+            width={540}
+            height={144}
             priority
-            style={{ height: "48px", width: "auto", maxHeight: "56px" }}
-            className="object-contain"
+            style={{ height: "76px", width: "auto", maxHeight: "84px" }}
+            className="object-contain mix-blend-multiply"
           />
         </Link>
 

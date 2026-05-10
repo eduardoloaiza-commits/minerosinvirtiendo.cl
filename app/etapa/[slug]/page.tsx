@@ -53,7 +53,7 @@ export default async function EtapaPage({ params }: { params: Params }) {
   return (
     <>
       <Header />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* ══ HERO COMPARTIDO ══ */}
         <section className="max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-8 md:py-14">
           <p className="font-heading font-bold text-[11px] tracking-[4px] uppercase text-[#B67A2D] mb-4">

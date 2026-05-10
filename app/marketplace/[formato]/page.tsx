@@ -47,7 +47,7 @@ export default async function FormatoPage({ params }: { params: Params }) {
   return (
     <>
       <Header />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* HERO */}
         <section className="max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-12 md:py-20">
           <div className="flex items-center gap-2 mb-6">

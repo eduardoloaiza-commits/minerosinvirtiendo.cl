@@ -12,7 +12,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/servicios/inversion-departamentos-alta-plusvalia",          priority: 0.9, frequency: "monthly" },
     { path: "/servicios/transformate-en-inversionista",                   priority: 0.8, frequency: "monthly" },
     { path: "/metodo",                                                    priority: 0.7, frequency: "monthly" },
-    { path: "/testimonios",                                               priority: 0.75, frequency: "monthly" },
     { path: "/educacion-financiera-para-mineros",                         priority: 0.7, frequency: "weekly" },
     { path: "/quienes-somos",                                             priority: 0.6, frequency: "monthly" },
     { path: "/diagnostico",                                               priority: 0.8, frequency: "monthly" },

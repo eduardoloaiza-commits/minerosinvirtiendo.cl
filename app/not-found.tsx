@@ -6,7 +6,7 @@ export default function NotFound() {
   return (
     <>
       <Header />
-      <main className="flex-1 flex items-center justify-center bg-[#F5F0E8] pt-[68px] lg:pt-[84px] py-24 px-6">
+      <main className="flex-1 flex items-center justify-center bg-[#F5F0E8] pt-[88px] lg:pt-[104px] py-24 px-6">
         <div className="text-center max-w-[480px]">
           <p className="font-heading font-extrabold text-[80px] text-[#B67A2D] leading-none mb-4">
             404

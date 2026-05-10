@@ -37,7 +37,7 @@ export default function QuienesSomosPage() {
   return (
     <>
       <Header />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* ── HERO ── */}
         <section className="relative overflow-hidden">
           <div className="absolute inset-0">

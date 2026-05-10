@@ -88,9 +88,13 @@ export const NIVELES_MINEROS = [
  * placeholder branded en vez de un iframe vacío.
  */
 export const VSL_VIDEO = {
-  ready: false,
+  ready: true,
   provider: "youtube" as "youtube" | "vimeo" | "custom",
-  id: "",
+  // Reutilizamos el mismo video VSL de medicosinvirtiendo.cl mientras
+  // no esté listo el video específicamente grabado para mineros.
+  // El usuario lo aprobó así explícitamente — cuando llegue una
+  // versión propia, cambiar el id por el nuevo.
+  id: "bW8plJRRGi4",
   title: "Centro de Diagnóstico y Estrategia Patrimonial para Mineros",
   posterText: "El video del entrenamiento se está preparando",
 };
@@ -166,7 +170,6 @@ export const NAV_LINKS: NavItem[] = [
   },
   { label: "Marketplace",  href: "/marketplace" },
   { label: "El Método",    href: "/metodo" },
-  { label: "Testimonios",  href: "/testimonios" },
   { label: "Noticias",     href: "/educacion-financiera-para-mineros" },
   { label: "El Equipo",    href: "/quienes-somos" },
 ];
@@ -184,7 +187,6 @@ export const FOOTER_LINKS = [
     title: "Recursos",
     links: [
       { label: "El Método", href: "/metodo" },
-      { label: "Testimonios", href: "/testimonios" },
       { label: "Noticias", href: "/educacion-financiera-para-mineros" },
       { label: "Entrenamiento", href: "/entrenamiento" },
     ],
@@ -198,22 +200,6 @@ export const FOOTER_LINKS = [
     ],
   },
 ];
-
-/**
- * Testimonios en video. Reemplazar con cards reales de mineros que
- * hayan trabajado con el equipo. Por ahora vacío para que la sección
- * se renderice como "próximamente".
- */
-export type VideoTestimonial = {
-  id: string;
-  name: string;
-  specialty: string;
-  short: boolean;
-  titulo: string;
-  resena: string;
-};
-
-export const VIDEO_TESTIMONIALS: VideoTestimonial[] = [];
 
 /**
  * Equipo. Por ahora vacío: las páginas que iteran TEAM deben manejar

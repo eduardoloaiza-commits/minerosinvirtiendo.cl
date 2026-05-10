@@ -51,7 +51,7 @@ export default function EntrenamientoPage() {
   return (
     <>
       <Header />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* ══ HERO + FORM ══ */}
         <section className="relative overflow-hidden bg-gradient-to-br from-[#2B2B2B] via-[#2B2B2B] to-[#523515] text-white">
           <div

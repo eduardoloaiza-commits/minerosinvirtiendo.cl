@@ -18,10 +18,6 @@ const HERO_SLIDES = [
     src: STOCK.heroMinerHelmet,
     alt: "Trabajador minero con casco de seguridad",
   },
-  {
-    src: STOCK.heroMinerTunnel,
-    alt: "Minero en operación subterránea",
-  },
 ];
 
 export const metadata: Metadata = {
@@ -59,7 +55,7 @@ export default function HomePage() {
     <>
       <Header />
       <DeferredStagePopup />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* ── HERO ── */}
         <section className="max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-8 md:py-16 grid grid-cols-1 md:grid-cols-12 items-center gap-8 md:gap-10">
           <div className="md:col-span-7">

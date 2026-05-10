@@ -83,7 +83,7 @@ export default async function ArticlePage({ params }: { params: Params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
       />
-      <main className="pt-[68px] lg:pt-[84px] bg-white">
+      <main className="pt-[88px] lg:pt-[104px] bg-white">
         {/* ── Hero con imagen ── */}
         <section className="relative">
           <div className="relative aspect-[16/9] sm:aspect-[21/9] md:aspect-[3/1] w-full overflow-hidden bg-[#2B2B2B]">

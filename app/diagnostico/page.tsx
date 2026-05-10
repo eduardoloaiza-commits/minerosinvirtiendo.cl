@@ -29,7 +29,7 @@ export default async function DiagnosticoPage({
   return (
     <>
       <Header />
-      <main className="flex-1 bg-[#F5F0E8] pt-[68px] lg:pt-[84px]">
+      <main className="flex-1 bg-[#F5F0E8] pt-[88px] lg:pt-[104px]">
 
         {/* ── Hero compacto ── */}
         <section

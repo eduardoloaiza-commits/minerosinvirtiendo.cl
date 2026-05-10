@@ -12,7 +12,7 @@ export default function PoliticasPrivacidadPage() {
   return (
     <>
       <Header />
-      <main className="bg-white pt-[68px] lg:pt-[84px] py-12 md:py-20 px-6">
+      <main className="bg-white pt-[88px] lg:pt-[104px] py-12 md:py-20 px-6">
         <div className="max-w-[760px] mx-auto">
           <p className="font-heading font-bold text-[11px] tracking-[4px] uppercase text-[#B67A2D] mb-4">
             Legal

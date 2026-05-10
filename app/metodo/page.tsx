@@ -161,7 +161,7 @@ export default function MetodoPage() {
   return (
     <>
       <Header />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* HERO: el problema real */}
         <section className="relative overflow-hidden bg-[#2B2B2B] text-white">
           <div

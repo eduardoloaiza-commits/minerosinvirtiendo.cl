@@ -60,7 +60,7 @@ export default function InversionInmobiliariaPage() {
   return (
     <>
       <Header />
-      <main className="pt-[68px] lg:pt-[84px]">
+      <main className="pt-[88px] lg:pt-[104px]">
         {/* ── HERO split ── */}
         <section className="max-w-[1280px] mx-auto px-5 sm:px-6 lg:px-8 py-10 md:py-20 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
