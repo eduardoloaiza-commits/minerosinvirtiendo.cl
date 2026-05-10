@@ -1,7 +1,6 @@
 /**
  * Contenido por etapa dentro de la carrera minera.
- * Cada landing /etapa/[slug] se arma con esta data, con la misma estructura
- * que la versión médica original, ahora adaptada al mundo minero.
+ * Cada landing /etapa/[slug] se arma con esta data.
  */
 
 export type EtapaStep = {

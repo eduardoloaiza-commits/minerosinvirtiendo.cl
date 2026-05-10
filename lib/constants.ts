@@ -109,16 +109,21 @@ const unsplash = (id: string, w = 1600) =>
   `https://images.unsplash.com/${id}?auto=format&fit=crop&w=${w}&q=80`;
 
 export const STOCK = {
-  // Hero slider: Unsplash, ambiente inmobiliario / industrial
-  // (pendiente reemplazar por fotos propias del equipo y operaciones mineras)
+  // ── Hero slider (home): fotos REALES de minería verificadas en Unsplash.
+  // Cuando lleguen fotos propias del equipo en faena, reemplazar acá. ──
+  heroMinerTunnel:    unsplash("photo-1660748255246-80f24d317070", 1200), // minero en túnel subterráneo (Oyu Tolgoi)
+  heroMinerTruck:     unsplash("photo-1622645916455-aa13b87438ec", 1200), // minero junto a camión amarillo (faena)
+  heroMinerHelmet:    unsplash("photo-1543357644-160b53c087e8", 1200),    // operario con casco amarillo de seguridad
+
+  // ── Imágenes inmobiliarias (departamentos/edificios) usadas en páginas
+  // de servicios, blog y como cover de artículos. NO usar en el hero
+  // principal: el hero debe mostrar minería, no edificios. ──
   heroApartment:      unsplash("photo-1623854767648-e7bb8009f0db", 1200),
   heroBuilding:       unsplash("photo-1502672260266-1c1ef2d93688", 1200),
   heroBanner2:        unsplash("photo-1622253694238-3b22139576c6", 1200),
-  // heroMiner: fallback temporal apuntando al edificio mientras llega
-  // la fotografía real del entorno minero (faena, casco, operario).
-  // Cuando el cliente entregue la foto: subirla a /public/brand/ o usar
-  // un Unsplash ID verificado y reactivar el 4to slide en app/page.tsx.
-  heroMiner:          unsplash("photo-1502672260266-1c1ef2d93688", 1200),
+  // Alias retrocompatible: heroMiner mantenido por si algún componente
+  // legacy lo referencia. Apunta a la foto del operario con casco.
+  heroMiner:          unsplash("photo-1543357644-160b53c087e8", 1200),
 
   // ── Placeholder brand assets — reemplazar por fotos reales del equipo ──
   heroTeam:           "/brand/logo.png",

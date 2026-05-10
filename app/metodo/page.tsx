@@ -35,7 +35,7 @@ const NO_TIENES_TIEMPO = [
   "Coordinar como un segundo trabajo",
 ];
 
-const POR_QUE_MEDICO = [
+const POR_QUE_MINERO = [
   {
     icon: "receipt_long",
     title: "Cómo está compuesta tu renta",
@@ -301,7 +301,7 @@ export default function MetodoPage() {
               </p>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-5">
-              {POR_QUE_MEDICO.map((p) => (
+              {POR_QUE_MINERO.map((p) => (
                 <div
                   key={p.title}
                   className="bg-white border border-slate-100 rounded-2xl p-5 md:p-6 hover:border-[#B67A2D] hover:shadow-md transition-all"
@@ -526,10 +526,10 @@ export default function MetodoPage() {
                 </h2>
                 <p className="font-body text-[15px] md:text-[17px] text-[#4A463E] leading-relaxed mb-4">
                   Fundador del Centro de Diagnóstico y Estrategia Patrimonial
-                  de MedicosInvirtiendo.cl. Durante los últimos años hemos
-                  trabajado con mineros en distintas etapas de su carrera para
-                  ayudarlos a invertir con una lógica completamente distinta a
-                  la del mercado tradicional.
+                  para Mineros. Durante los últimos años hemos trabajado con
+                  profesionales de la minería en distintas etapas de su carrera
+                  para ayudarlos a invertir con una lógica completamente distinta
+                  a la del mercado tradicional.
                 </p>
                 <p className="font-body text-[15px] md:text-[17px] text-[#2B2B2B] font-semibold leading-relaxed">
                   Lo que lees aquí no es teoría. Es lo que implementamos todos

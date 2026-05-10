@@ -11,20 +11,17 @@ import { ETAPAS } from "@/lib/etapas";
 
 const HERO_SLIDES = [
   {
-    src: STOCK.heroApartment,
-    alt: "Profesional de la minería protegiendo su futuro con inversión inmobiliaria",
+    src: STOCK.heroMinerTruck,
+    alt: "Profesional minero junto a camión de operación en faena",
   },
   {
-    src: STOCK.heroBuilding,
-    alt: "Departamento de alta plusvalía en Santiago",
+    src: STOCK.heroMinerHelmet,
+    alt: "Trabajador minero con casco de seguridad",
   },
   {
-    src: STOCK.heroBanner2,
-    alt: "Minero iniciando su plan patrimonial",
+    src: STOCK.heroMinerTunnel,
+    alt: "Minero en operación subterránea",
   },
-  // 4to slide pausado: hasta tener foto real del entorno minero, mostrar
-  // sólo 3 imágenes inmobiliarias evita el riesgo de mostrar contenido
-  // equivocado (la versión médica del template tenía una doctora aquí).
 ];
 
 export const metadata: Metadata = {

@@ -53,7 +53,7 @@ export async function POST(request: Request) {
   const source = trim(body.source) || "entrenamiento_form";
   // Origen identifica la web emisora del lead. Configurable por env para
   // que el día que conectemos otra propiedad solo cambie la variable.
-  const origen = (process.env.LEAD_ORIGIN || "MedicosInvirtiendo").trim();
+  const origen = (process.env.LEAD_ORIGIN || "MinerosInvirtiendo").trim();
 
   if (nombre.length < 2) {
     return Response.json({ ok: false, error: "invalid_nombre" }, { status: 400 });
