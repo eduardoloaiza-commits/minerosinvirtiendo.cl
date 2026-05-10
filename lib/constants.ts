@@ -131,8 +131,8 @@ export const STOCK = {
   // legacy lo referencia. Apunta a la mina a cielo abierto.
   heroMiner:          unsplash("photo-1628487749130-2d41acb1802a", 1200),
 
-  // ── Placeholder brand assets — reemplazar por fotos reales del equipo ──
-  heroTeam:           "/brand/logo.png",
+  // Foto del equipo usada como hero de /quienes-somos.
+  heroTeam:           "/brand/equipo-hero.jpeg",
 
   // ── Unsplash (fallback para páginas donde no tenemos asset propio) ──
   heroTributario:     unsplash("photo-1554224155-6726b3ff858f"),
@@ -204,9 +204,12 @@ export const FOOTER_LINKS = [
 ];
 
 /**
- * Equipo. Por ahora vacío: las páginas que iteran TEAM deben manejar
- * el caso de array vacío (renderizan un estado "próximamente"). Cuando
- * el cliente provea fotos + bios reales, completar acá.
+ * Equipo. Los socios y directoras son los mismos del proyecto matriz
+ * (medicosinvirtiendo.cl); credentials reales tomados de sus CVs. El
+ * enfoque editorial acá es su trayectoria en construcción, inmobiliario,
+ * gestión patrimonial e inversiones — no su formación profesional
+ * original. Los taglines se usan para anclar el rol que cada uno
+ * cumple dentro de la propuesta de inversión para mineros.
  */
 export const TEAM: Array<{
   role: string;
@@ -215,7 +218,64 @@ export const TEAM: Array<{
   tagline: string;
   credentials: string[];
   color: "primary" | "teal";
-}> = [];
+}> = [
+  {
+    role: "Socio y Director",
+    name: "Giovanni Prelle",
+    photo: "/brand/giovanni.jpg",
+    tagline:
+      "Lidera la estrategia patrimonial, la integración tecnológica y los vínculos institucionales con el gremio inmobiliario.",
+    credentials: [
+      "Socio CChC · participante del comité de vivienda e inmobiliario",
+      "Fundador de Usatusubsidio.cl",
+      "Diplomado en Gestión de Proyectos Blockchain",
+      "Magíster en Diseño Avanzado, PUC",
+      "Tecnólogo Médico, U. de Chile",
+    ],
+    color: "primary",
+  },
+  {
+    role: "Socio y Gerente Comercial",
+    name: "David Campos",
+    photo: "/brand/david.jpg",
+    tagline:
+      "Lidera el área comercial y el acompañamiento personalizado de cada inversionista a lo largo del proceso.",
+    credentials: [
+      "Más de una década en estrategia comercial y atención a profesionales de alta renta",
+      "Profesor de Física Nuclear, U. Diego Portales",
+      "Ex Coordinador de Imagenología, Clínica Santa María",
+      "Tecnólogo Médico, U. de Chile",
+    ],
+    color: "teal",
+  },
+  {
+    role: "Directora",
+    name: "María Francisca Sanz Yuraseck",
+    photo: "/brand/maria-francisca.jpg",
+    tagline:
+      "Aporta la experiencia técnica en construcción y desarrollo inmobiliario que sostiene cada recomendación del método.",
+    credentials: [
+      "Ingeniera Civil en Ingeniería y Gestión de la Construcción, PUC",
+      "Directora de empresas inmobiliarias",
+      "Past Presidenta CChC Puerto Montt",
+    ],
+    color: "primary",
+  },
+  {
+    role: "Jefa de Asuntos Corporativos",
+    name: "Pía Michael",
+    photo: "/brand/pia.jpg",
+    tagline:
+      "Lidera la relación institucional, los convenios gremiales y la comunicación con asociaciones profesionales.",
+    credentials: [
+      "Liderazgo en relaciones institucionales con asociaciones profesionales",
+      "Profesora de Pre y Postgrado, U. de Chile",
+      "Médica Cirujana, U. de Chile · Especialidad en Otorrinolaringología",
+      "Staff Clínica INDISA",
+    ],
+    color: "teal",
+  },
+];
 
 /**
  * Convenios y membresías institucionales del sitio. Por ahora vacío;
