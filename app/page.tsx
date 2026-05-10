@@ -22,10 +22,9 @@ const HERO_SLIDES = [
     src: STOCK.heroBanner2,
     alt: "Minero iniciando su plan patrimonial",
   },
-  {
-    src: STOCK.heroDoctor,
-    alt: "Profesional minero en operación industrial moderna",
-  },
+  // 4to slide pausado: hasta tener foto real del entorno minero, mostrar
+  // sólo 3 imágenes inmobiliarias evita el riesgo de mostrar contenido
+  // equivocado (la versión médica del template tenía una doctora aquí).
 ];
 
 export const metadata: Metadata = {

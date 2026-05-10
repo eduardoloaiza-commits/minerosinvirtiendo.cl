@@ -62,9 +62,14 @@ export default function RootLayout({
       className={poppins.variable}
     >
       <head>
-        {/* Material Symbols: subset por icon_names para servir solo los
-            íconos usados en el sitio. Si agregas un ícono nuevo en algún
-            componente, también debes incluirlo en el query string. */}
+        {/* Material Symbols Outlined: fuente completa con display=swap.
+            Antes se usaba subset por icon_names, pero si un componente
+            usaba un ícono que no estaba listado (o si la URL del subset
+            fallaba) los nombres quedaban renderizados como texto literal
+            (porque display=block bloquea el render hasta que llegue la
+            fuente). display=swap evita ese fallback feo y la fuente
+            completa garantiza que cualquier ícono usado en cualquier
+            componente funcione sin tocar este archivo. */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
@@ -73,7 +78,7 @@ export default function RootLayout({
         />
         <link
           rel="stylesheet"
-          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_balance,account_circle,analytics,apartment,architecture,arrow_forward,auto_fix_high,autorenew,balance,bookmark,calendar_month,calendar_today,chat,check,check_circle,close,credit_score,event,expand_more,fact_check,family_restroom,flag,group,handshake,help,hourglass_empty,info,insights,factory,local_offer,location_city,lock,mark_email_read,engineering,paid,person,play_arrow,play_circle,priority_high,receipt,receipt_long,rocket_launch,schedule,security,shield,shield_lock,stacked_bar_chart,switch_access_shortcut,timeline,trending_down,trending_up,verified,visibility,volume_off,volume_up,vpn_key,warning&display=block"
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap"
         />
         <link rel="dns-prefetch" href="https://www.youtube.com" />
         <link rel="dns-prefetch" href="https://i.ytimg.com" />

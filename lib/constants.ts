@@ -109,12 +109,16 @@ const unsplash = (id: string, w = 1600) =>
   `https://images.unsplash.com/${id}?auto=format&fit=crop&w=${w}&q=80`;
 
 export const STOCK = {
-  // Hero slider: Unsplash, ambiente minero / industrial
-  // (pendiente reemplazar por fotos propias del equipo y operaciones)
+  // Hero slider: Unsplash, ambiente inmobiliario / industrial
+  // (pendiente reemplazar por fotos propias del equipo y operaciones mineras)
   heroApartment:      unsplash("photo-1623854767648-e7bb8009f0db", 1200),
   heroBuilding:       unsplash("photo-1502672260266-1c1ef2d93688", 1200),
   heroBanner2:        unsplash("photo-1622253694238-3b22139576c6", 1200),
-  heroDoctor:         unsplash("photo-1581094794329-c8112a89af12", 1200), // minero / casco
+  // heroMiner: fallback temporal apuntando al edificio mientras llega
+  // la fotografía real del entorno minero (faena, casco, operario).
+  // Cuando el cliente entregue la foto: subirla a /public/brand/ o usar
+  // un Unsplash ID verificado y reactivar el 4to slide en app/page.tsx.
+  heroMiner:          unsplash("photo-1502672260266-1c1ef2d93688", 1200),
 
   // ── Placeholder brand assets — reemplazar por fotos reales del equipo ──
   heroTeam:           "/brand/logo.png",

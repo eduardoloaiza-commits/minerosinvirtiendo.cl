@@ -21,12 +21,11 @@ const FIRST_DELAY_MS = 120_000;          // 2 min de engagement antes del primer
 const SESSION_DISMISS_KEY = "mi_lead_modal_dismissed";
 
 const ESPECIALIDADES = [
-  "Minero Cirujano",
-  "Minero Especialista",
-  "Residente / Profesional en formación",
-  "Tecnólogo Minero",
-  "Enfermero/a",
-  "Kinesiólogo/a",
+  "Personal de operación",
+  "Personal técnico / mantenimiento",
+  "Supervisor / Capataz",
+  "Ingeniero / Especialista técnico",
+  "Jefatura / Gerencia",
   "Otro profesional de la minería",
 ];
 

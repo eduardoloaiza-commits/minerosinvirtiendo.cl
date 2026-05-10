@@ -54,12 +54,12 @@ const POR_QUE_MEDICO = [
   {
     icon: "trending_up",
     title: "Cómo cambiará tu realidad profesional",
-    body: "Las decisiones de hoy no pueden bloquear el doctor que vas a ser en 5 años.",
+    body: "Las decisiones de hoy no pueden bloquear al profesional minero que vas a ser en 5 años.",
   },
   {
     icon: "engineering",
-    title: "Sin desordenar tu foco clínico",
-    body: "El sistema está pensado para que inviertas bien sin que esto compita con tus labor ni tu energía.",
+    title: "Sin desordenar tu foco operativo",
+    body: "El sistema está pensado para que inviertas bien sin que esto compita con tus turnos ni tu energía.",
   },
 ];
 

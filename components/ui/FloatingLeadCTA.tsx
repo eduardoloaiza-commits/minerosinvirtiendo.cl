@@ -42,7 +42,7 @@ export default function FloatingLeadCTA() {
   const bubbleColor = completed ? "bg-[#25D366]" : "bg-[#B67A2D]";
   const shadow = completed ? "shadow-[#25D366]/40" : "shadow-[#B67A2D]/40";
   const pingColor = completed ? "bg-[#25D366]" : "bg-[#B67A2D]";
-  const icon = completed ? "chat" : "stethoscope";
+  const icon = completed ? "chat" : "engineering";
 
   return (
     <div className="fixed bottom-5 right-5 z-[60] flex items-end gap-2">

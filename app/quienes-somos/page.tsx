@@ -110,7 +110,7 @@ export default function QuienesSomosPage() {
                 Las personas detrás del proyecto
               </h2>
               <p className="font-body text-[16px] text-[#4A463E] mt-3 leading-relaxed">
-                Un equipo que combina experiencia clínica con trayectoria en el mercado inmobiliario.
+                Un equipo que combina experiencia operativa minera con trayectoria en el mercado inmobiliario.
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
