@@ -33,7 +33,7 @@ export const ETAPAS_HERO = {
   title: "Inversión inmobiliaria paso a paso para profesionales mineros",
   intro:
     "La inversión inmobiliaria para mineros no debería partir eligiendo un departamento. Debería partir entendiendo en qué nivel estás dentro de la organización, qué errores no puedes cometer y cuál es el siguiente paso correcto para construir patrimonio sin desordenarte.",
-  nota: "Esta guía resume el camino según tu rol y experiencia. No busca resolver tu caso completo, sino mostrarte por qué una misma oportunidad puede ser buena para un operador y mala para un supervisor — o al revés.",
+  nota: "Esta guía resume el camino según tu rol y experiencia. No busca resolver tu caso completo, sino mostrarte por qué una misma oportunidad puede ser buena para un operador y mala para un supervisor, o al revés.",
 } as const;
 
 /** Frase fija del bloque "Nuestro enfoque". */
@@ -178,7 +178,7 @@ export const ETAPAS: Etapa[] = [
     nadieDice: {
       titulo: "Lo que casi nadie te dice",
       punchline:
-        "En faena extrema, el problema no suele ser partir tarde. El problema suele ser partir mal — y dejar el bono de zona en un activo que no rinde.",
+        "En faena extrema, el problema no suele ser partir tarde. El problema suele ser partir mal, y dejar el bono de zona en un activo que no rinde.",
     },
     preguntaCorrecta:
       "¿Tu etapa actual realmente soporta una estrategia de inversión inteligente o sólo una compra aislada?",

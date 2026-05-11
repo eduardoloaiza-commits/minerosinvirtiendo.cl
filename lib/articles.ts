@@ -48,7 +48,7 @@ export const ARTICLES: Article[] = [
     metaDescription:
       "Si tienes ingresos por asesorías o consultoría minera independiente, una Sociedad de Profesionales puede reducir legalmente tu Global Complementario. Requisitos SII, beneficios concretos y cuándo te conviene constituirla.",
     excerpt:
-      "Cuándo el geólogo, ingeniero o consultor minero independiente debe estructurar una Sociedad de Profesionales — y cuándo todavía no.",
+      "Cuándo el geólogo, ingeniero o consultor minero independiente debe estructurar una Sociedad de Profesionales, y cuándo todavía no.",
     cover: STOCK.blogTributario,
     readMinutes: 7,
     publishedAt: "2026-04-22",
@@ -62,7 +62,7 @@ export const ARTICLES: Article[] = [
       "tributación consultores mineros",
     ],
     intro: [
-      "Antes de partir, una aclaración importante: este artículo no es para todos los mineros. Si trabajas en faena con contrato de planta, tu sueldo y bono producción pasan por el Impuesto Único de Segunda Categoría — para ti la palanca tributaria principal es otra, y la cubrimos en el artículo del Global Complementario y APV.",
+      "Antes de partir, una aclaración importante: este artículo no es para todos los mineros. Si trabajas en faena con contrato de planta, tu sueldo y bono producción pasan por el Impuesto Único de Segunda Categoría, para ti la palanca tributaria principal es otra, y la cubrimos en el artículo del Global Complementario y APV.",
       "Esto sí te aplica si una parte (o el total) de tus ingresos viene por boletas de honorarios: geólogos consultores, ingenieros senior con asesorías técnicas paralelas, especialistas en geomecánica o metalurgia que prestan servicios a varias compañías, y profesionales que dejaron la planta para trabajar como consultor independiente. Si emites boletas y los ingresos crecieron, este es tu artículo.",
       "Para ese perfil, el Impuesto Global Complementario se vuelve una trampa fiscal silenciosa: tramo tras tramo, se lleva una porción cada vez mayor de lo que podría convertirse en patrimonio. La estructura legal que elijas determina cuánto pagas al SII y cuánto queda para construir patrimonio.",
     ],
@@ -106,7 +106,7 @@ export const ARTICLES: Article[] = [
       {
         h: "Cuándo conviene constituirla",
         p: [
-          "La respuesta depende de cuánto factures hoy por boleta de honorarios y cuánta parte de eso se va en Global Complementario. Una regla práctica para consultores mineros: si tu ingreso anual por honorarios supera las 2.500 UF y tu tramo marginal ya está sobre el 30%, la sociedad empieza a hacer sentido financiero. A niveles mayores — habituales en geólogos senior independientes o ingenieros con cartera de varios mandantes — el ahorro anual puede cubrir cómodamente la entrada de un departamento de inversión cada año.",
+          "La respuesta depende de cuánto factures hoy por boleta de honorarios y cuánta parte de eso se va en Global Complementario. Una regla práctica para consultores mineros: si tu ingreso anual por honorarios supera las 2.500 UF y tu tramo marginal ya está sobre el 30%, la sociedad empieza a hacer sentido financiero. A niveles mayores, habituales en geólogos senior independientes o ingenieros con cartera de varios mandantes, el ahorro anual puede cubrir cómodamente la entrada de un departamento de inversión cada año.",
           "El momento ideal también depende de tu etapa profesional. Un ingeniero recién independizado, con un solo mandante y flujos aún inestables, tiene menos urgencia que un consultor consolidado con 5 años de cartera diversificada y proyecciones claras de crecimiento. Pero cuanto antes se estructure (sin saltarse el orden cuando todavía conviene boleta simple), antes empiezan a acumularse los beneficios año tras año.",
         ],
       },
@@ -114,19 +114,19 @@ export const ARTICLES: Article[] = [
         h: "Errores comunes al estructurarse",
         p: [
           "Constituir la sociedad es solo el primer paso. Los errores aparecen en la operación diaria: mezclar gastos personales con los de la sociedad, no llevar contabilidad al día, no emitir documentación tributaria electrónica correctamente o, peor, forzar deducciones que el SII puede cuestionar en una fiscalización (especialmente viáticos a faena, vehículo de uso mixto, y gastos de representación).",
-          "El otro error clásico es constituirla sola, sin coordinarla con la estrategia patrimonial. Una Sociedad de Profesionales que no conversa con tu plan inmobiliario termina siendo solo un ahorro fiscal aislado, en vez de ser la palanca que acelera tu construcción patrimonial. El valor real aparece cuando el ahorro tributario se reinvierte directamente en activos que generan plusvalía y renta — ya sea en regiones cercanas a faena (Antofagasta, La Serena, Iquique) o en Santiago como base familiar.",
+          "El otro error clásico es constituirla sola, sin coordinarla con la estrategia patrimonial. Una Sociedad de Profesionales que no conversa con tu plan inmobiliario termina siendo solo un ahorro fiscal aislado, en vez de ser la palanca que acelera tu construcción patrimonial. El valor real aparece cuando el ahorro tributario se reinvierte directamente en activos que generan plusvalía y renta, ya sea en regiones cercanas a faena (Antofagasta, La Serena, Iquique) o en Santiago como base familiar.",
         ],
       },
       {
         h: "El puente entre tributario e inmobiliario",
         p: [
-          "El dinero que dejas de pagar al SII tiene dos destinos posibles: gasto o inversión. La mayoría de los consultores que estructuran su sociedad sin un plan patrimonial terminan viendo ese ahorro diluirse en gasto corriente a los pocos años — vehículos, viajes, mejoras a la oficina. La minoría que sí tiene un plan reinvierte esos recursos en departamentos que crecen históricamente 4% anual en UF y generan renta todos los meses.",
+          "El dinero que dejas de pagar al SII tiene dos destinos posibles: gasto o inversión. La mayoría de los consultores que estructuran su sociedad sin un plan patrimonial terminan viendo ese ahorro diluirse en gasto corriente a los pocos años, vehículos, viajes, mejoras a la oficina. La minoría que sí tiene un plan reinvierte esos recursos en departamentos que crecen históricamente 4% anual en UF y generan renta todos los meses.",
           "Esa diferencia, medida en 10 años, es la distancia entre llegar al retiro con una renta previsional marginal o con un patrimonio inmobiliario que paga dividendos todos los meses, independientes del ciclo del cobre o del litio. La Sociedad de Profesionales es el vehículo, pero la dirección la define tu estrategia de inversión.",
         ],
       },
     ],
     conclusion: [
-      "Estructurarte como Sociedad de Profesionales no es un truco contable ni un atajo fiscal. Es una decisión estratégica de largo plazo que se vuelve más valiosa cuanto antes la tomes y cuanto mejor la coordines con tu plan patrimonial global. Pero solo aplica si tienes ingresos por boleta — si eres dependiente de planta, tu palanca es otra y conviene leer primero el artículo del Global Complementario y APV.",
+      "Estructurarte como Sociedad de Profesionales no es un truco contable ni un atajo fiscal. Es una decisión estratégica de largo plazo que se vuelve más valiosa cuanto antes la tomes y cuanto mejor la coordines con tu plan patrimonial global. Pero solo aplica si tienes ingresos por boleta, si eres dependiente de planta, tu palanca es otra y conviene leer primero el artículo del Global Complementario y APV.",
       "Si emites boletas y quieres evaluar si te conviene hoy, un asesor puede revisar tu última Operación Renta, tu mix de mandantes y tu estructura actual para estimar el ahorro anual proyectado y el camino más corto hacia tu meta patrimonial.",
     ],
   },
@@ -153,7 +153,7 @@ export const ARTICLES: Article[] = [
       "libertad financiera mineros",
     ],
     intro: [
-      "Cada vez que un grupo de profesionales mineros se junta a hablar de plata —al cambio de turno, en un casino de campamento o en el almuerzo de regreso— la conversación termina en el mismo lugar: el ladrillo. No es casualidad. En Chile, el sector inmobiliario ha sido, sostenidamente por más de dos décadas, la inversión favorita de quienes tienen sueldos altos en industrias de capital intensivo: minería, energía, banca y forestal.",
+      "Cada vez que un grupo de profesionales mineros se junta a hablar de plata (al cambio de turno, en un casino de campamento o en el almuerzo de regreso), la conversación termina en el mismo lugar: el ladrillo. No es casualidad. En Chile, el sector inmobiliario ha sido, sostenidamente por más de dos décadas, la inversión favorita de quienes tienen sueldos altos en industrias de capital intensivo: minería, energía, banca y forestal.",
       "La razón no es cultural ni emocional. Es estructural. El ladrillo combina cuatro atributos que rara vez coinciden en otro vehículo de inversión: apreciación histórica sobre IPC, flujo constante de renta, apalancamiento bancario accesible y protección contra volatilidad. Para un minero que vive entre faena y base familiar, además, suma una quinta característica clave: cobertura de techo en dos plazas distintas. Revisemos las cinco.",
     ],
     sections: [
@@ -176,14 +176,14 @@ export const ARTICLES: Article[] = [
         p: [
           "Aquí es donde el inmobiliario se vuelve especialmente poderoso para un profesional minero de sueldo alto. Los bancos en Chile financian hasta el 80% del valor del departamento vía crédito hipotecario en UF, a plazos de hasta 30 años. Esto significa que con un pie del 20%, el inversionista controla el 100% del activo, y se beneficia del 100% de la plusvalía sobre ese valor.",
           "Veámoslo en números pensando en un supervisor o ingeniero de planta consolidado. Un departamento de $120 millones con un pie de $24 millones. Si el activo se aprecia 4% anual, el primer año la plusvalía es $4,8 millones. Pero esos $4,8 millones se generan sobre un pie de $24 millones: la rentabilidad efectiva sobre capital propio es del 20% anual, solo por apreciación. Si además el activo arrienda a 5% anual bruto, el retorno total sobre capital propio supera cómodamente el 25% en escenarios conservadores.",
-          "Ningún fondo mutuo, APV o depósito a plazo puede competir con eso de forma sostenida. El apalancamiento bancario es un multiplicador que solo está disponible para quienes pueden calificar con buena renta y estabilidad: contrato indefinido, sueldo en UF o pesos consolidado, antigüedad demostrable. El profesional minero de planta es exactamente ese perfil — y los bancos lo saben, lo que abre la puerta a tasas preferenciales por convenio gremial o sindical.",
+          "Ningún fondo mutuo, APV o depósito a plazo puede competir con eso de forma sostenida. El apalancamiento bancario es un multiplicador que solo está disponible para quienes pueden calificar con buena renta y estabilidad: contrato indefinido, sueldo en UF o pesos consolidado, antigüedad demostrable. El profesional minero de planta es exactamente ese perfil, y los bancos lo saben, lo que abre la puerta a tasas preferenciales por convenio gremial o sindical.",
         ],
       },
       {
         h: "Renta mensual: flujo que no pregunta por el cobre",
         p: [
           "Un departamento arrendado genera ingresos todos los meses, independiente de lo que hagan las bolsas, el peso, el dólar, el precio del cobre o el ánimo del mercado. Para un profesional minero que quiere diversificar ingresos y reducir su dependencia de un solo empleador o de un solo commodity, ese flujo constante es una herramienta única.",
-          "En proyectos bien elegidos, la renta cubre el dividendo del crédito hipotecario. El activo se paga solo. El propietario aporta el pie inicial y, con paciencia, recibe a los 25 años un patrimonio completo, libre de deuda, revalorizado y seguido generando renta mensual. Esa es la fórmula del patrimonio pasivo — y para un minero que mira el reloj de su carrera (los turnos pesados no se hacen para siempre), es la fórmula de la salida.",
+          "En proyectos bien elegidos, la renta cubre el dividendo del crédito hipotecario. El activo se paga solo. El propietario aporta el pie inicial y, con paciencia, recibe a los 25 años un patrimonio completo, libre de deuda, revalorizado y seguido generando renta mensual. Esa es la fórmula del patrimonio pasivo, y para un minero que mira el reloj de su carrera (los turnos pesados no se hacen para siempre), es la fórmula de la salida.",
         ],
       },
       {
@@ -203,7 +203,7 @@ export const ARTICLES: Article[] = [
     ],
     conclusion: [
       "Por plusvalía histórica, tangibilidad, apalancamiento, flujo mensual y la posibilidad de cubrir techo en dos plazas, el ladrillo sigue siendo la inversión favorita del minero chileno. Y no está por casualidad. Es el vehículo que mejor se adapta a un profesional con alta capacidad de ahorro, estabilidad de ingresos, sistema de turnos y poco tiempo para gestionar operaciones complejas.",
-      "Por supuesto, invertir bien en inmobiliario requiere elegir bien el proyecto, estructurar bien el crédito y gestionar profesionalmente el arriendo — más todavía si los activos están en regiones distintas a donde vives. Ese es el trabajo operativo que no todos los mineros quieren hacer, y justamente donde una asesoría patrimonial especializada se vuelve rentable.",
+      "Por supuesto, invertir bien en inmobiliario requiere elegir bien el proyecto, estructurar bien el crédito y gestionar profesionalmente el arriendo, más todavía si los activos están en regiones distintas a donde vives. Ese es el trabajo operativo que no todos los mineros quieren hacer, y justamente donde una asesoría patrimonial especializada se vuelve rentable.",
     ],
   },
 
@@ -231,7 +231,7 @@ export const ARTICLES: Article[] = [
     intro: [
       "La libertad financiera no es un número abstracto. Para un profesional minero en Chile, es un punto concreto: el momento en que tus activos generan suficiente renta para que el próximo turno sea una elección y no una necesidad. En el marco inmobiliario chileno, ese punto se ubica típicamente cerca de los $300 millones de patrimonio neto.",
       "Con esa cifra, una renta pasiva mensual bruta cercana al millón y medio de pesos se vuelve realista. No es riqueza extrema, sobre todo si la comparas con un sueldo de planta consolidado: es autonomía. Es la posibilidad de elegir el proyecto que quieres, no todos los que ofrezcan, y de heredar a tus hijos algo más que tu liquidación de fin de servicio.",
-      "Esta guía es el mapa de ruta para llegar ahí antes de los 50 años, empezando hoy. Funciona igual para el minero de planta con sueldo + bono producción que para el consultor independiente que factura por boleta — la única diferencia importante aparece en el Paso 3.",
+      "Esta guía es el mapa de ruta para llegar ahí antes de los 50 años, empezando hoy. Funciona igual para el minero de planta con sueldo + bono producción que para el consultor independiente que factura por boleta, la única diferencia importante aparece en el Paso 3.",
     ],
     sections: [
       {
@@ -251,18 +251,18 @@ export const ARTICLES: Article[] = [
       {
         h: "Paso 2: Define el número que quieres alcanzar",
         p: [
-          "La meta de $300 millones no es una convención: es el resultado de un cálculo simple. Suponiendo una renta pasiva anual del 5% bruto, ese patrimonio genera $15 millones al año, equivalentes a $1,25 millones mensuales antes de impuestos. Para un minero acostumbrado a sueldos altos, esa cifra es la banda inferior — pero es lo mínimo para mantener calidad de vida sin depender del próximo turno.",
+          "La meta de $300 millones no es una convención: es el resultado de un cálculo simple. Suponiendo una renta pasiva anual del 5% bruto, ese patrimonio genera $15 millones al año, equivalentes a $1,25 millones mensuales antes de impuestos. Para un minero acostumbrado a sueldos altos, esa cifra es la banda inferior, pero es lo mínimo para mantener calidad de vida sin depender del próximo turno.",
           "La meta se ajusta a tu realidad. Un minero soltero en regiones con costo de vida menor puede apuntar a $200 millones. Un supervisor con familia numerosa, educación privada y plan de retiro temprano puede necesitar $500-700 millones. La meta es personal, pero el método para llegar es universal.",
         ],
       },
       {
-        h: "Paso 3: Estructura tu vehículo legal — depende de cómo cobras",
+        h: "Paso 3: Estructura tu vehículo legal, depende de cómo cobras",
         p: [
           "Aquí el camino se bifurca según tu fuente de ingresos:",
         ],
         list: {
           items: [
-            "Si eres dependiente de planta (contrato indefinido, sueldo + bono): tu impuesto es el Único de Segunda Categoría, retenido mes a mes. La palanca tributaria principal es maximizar APV-A (hasta 50 UF mensuales deducibles) y separar contablemente el bono producción del flujo de gasto corriente. La sociedad de inversión, si llega, es para tenencia de los activos inmobiliarios — no para tu sueldo.",
+            "Si eres dependiente de planta (contrato indefinido, sueldo + bono): tu impuesto es el Único de Segunda Categoría, retenido mes a mes. La palanca tributaria principal es maximizar APV-A (hasta 50 UF mensuales deducibles) y separar contablemente el bono producción del flujo de gasto corriente. La sociedad de inversión, si llega, es para tenencia de los activos inmobiliarios, no para tu sueldo.",
             "Si emites boletas de honorarios (consultor, geólogo independiente, ingeniero asesor): tu impuesto es Global Complementario y aquí sí evalúa una Sociedad de Profesionales con uno o dos colegas, más una sociedad de inversión separada para los activos. La sociedad permite diferir tributación reinvirtiendo utilidades antes de retirarlas.",
             "Si tienes mix (sueldo + asesorías paralelas): combinas ambos. APV-A para reducir base imponible del sueldo, sociedad para canalizar las asesorías, y una sociedad de inversión para los inmuebles.",
           ],
@@ -279,7 +279,7 @@ export const ARTICLES: Article[] = [
         h: "Paso 5: Escala de 2 a 5 departamentos",
         p: [
           "Aquí la estrategia se vuelve financiera pura. El objetivo es acumular entre 2 y 5 departamentos en un horizonte de 8 a 15 años, aprovechando que cada depto adquirido genera plusvalía, renta y capacidad crediticia adicional para el siguiente.",
-          "La matemática es clara: con un ahorro mensual promedio de $800.000 a $1.200.000 — perfectamente alcanzable con sueldo + bono minero bien gestionado — es posible adquirir un nuevo departamento cada 2 a 3 años. Al cabo de 12 años, un portafolio de 4 a 5 deptos puede superar cómodamente los $300 millones netos, considerando apreciación y amortización de deuda. Es aritmética paciente, no apuesta.",
+          "La matemática es clara: con un ahorro mensual promedio de $800.000 a $1.200.000, perfectamente alcanzable con sueldo + bono minero bien gestionado, es posible adquirir un nuevo departamento cada 2 a 3 años. Al cabo de 12 años, un portafolio de 4 a 5 deptos puede superar cómodamente los $300 millones netos, considerando apreciación y amortización de deuda. Es aritmética paciente, no apuesta.",
         ],
       },
       {
@@ -298,8 +298,8 @@ export const ARTICLES: Article[] = [
       },
     ],
     conclusion: [
-      "Llegar a los $300 millones no es una hazaña; es una consecuencia lógica de aplicar este método con disciplina durante 10 a 15 años. El verdadero diferencial entre quien lo logra y quien no, rara vez es el ingreso — los mineros suelen tener exactamente el ingreso necesario. Casi siempre es la estructura, la constancia y el acompañamiento experto en las decisiones clave.",
-      "Si quieres trazar tu propio camino con números específicos, el punto de partida es siempre el diagnóstico. Con tu situación actual — sueldo base, bono producción, antigüedad, sistema de turnos, base familiar — un asesor puede proyectar cuánto y cuándo puedes alcanzar tu meta, y qué decisiones deberías tomar este año para acelerarla.",
+      "Llegar a los $300 millones no es una hazaña; es una consecuencia lógica de aplicar este método con disciplina durante 10 a 15 años. El verdadero diferencial entre quien lo logra y quien no, rara vez es el ingreso, los mineros suelen tener exactamente el ingreso necesario. Casi siempre es la estructura, la constancia y el acompañamiento experto en las decisiones clave.",
+      "Si quieres trazar tu propio camino con números específicos, el punto de partida es siempre el diagnóstico. Con tu situación actual, sueldo base, bono producción, antigüedad, sistema de turnos, base familiar, un asesor puede proyectar cuánto y cuándo puedes alcanzar tu meta, y qué decisiones deberías tomar este año para acelerarla.",
     ],
   },
 
@@ -325,15 +325,15 @@ export const ARTICLES: Article[] = [
     ],
     intro: [
       "El crédito hipotecario es el mayor multiplicador que existe legalmente en Chile. Con un pie del 20%, el banco te financia el 80% del activo y tú capturas el 100% de la apreciación. Pero esa misma herramienta, mal negociada, puede encadenarte con una tasa demasiado alta durante 25 años.",
-      "Para un profesional minero, negociar bien el crédito hipotecario vale más que elegir bien el departamento. Tu perfil es uno de los más buscados por los bancos — sueldo alto, contrato indefinido, antigüedad demostrable, muchas veces con asignación de zona y sueldo en UF — y eso te da palancas que la mayoría del mercado no tiene. Este artículo es una guía práctica para entender cómo te ven los bancos, qué tienes a tu favor y cómo extraer la mejor tasa.",
+      "Para un profesional minero, negociar bien el crédito hipotecario vale más que elegir bien el departamento. Tu perfil es uno de los más buscados por los bancos, sueldo alto, contrato indefinido, antigüedad demostrable, muchas veces con asignación de zona y sueldo en UF, y eso te da palancas que la mayoría del mercado no tiene. Este artículo es una guía práctica para entender cómo te ven los bancos, qué tienes a tu favor y cómo extraer la mejor tasa.",
     ],
     sections: [
       {
         h: "Cómo evalúan los bancos a un profesional minero",
         p: [
-          "Los bancos en Chile evalúan un crédito hipotecario sobre tres pilares: capacidad de pago, estabilidad de ingresos y comportamiento crediticio. Los profesionales mineros — operadores con antigüedad, supervisores, ingenieros de planta y técnicos especializados — suelen destacar en los tres.",
+          "Los bancos en Chile evalúan un crédito hipotecario sobre tres pilares: capacidad de pago, estabilidad de ingresos y comportamiento crediticio. Los profesionales mineros, operadores con antigüedad, supervisores, ingenieros de planta y técnicos especializados, suelen destacar en los tres.",
           "En capacidad de pago, los ingresos de planta minera (sueldo base + bono producción + asignaciones) generalmente superan con holgura el múltiplo exigido de dividendo/renta. En estabilidad, el contrato indefinido en gran minería privada o estatal se percibe como una de las actividades laborales más resilientes del país, y la antigüedad se valora explícitamente. Y en comportamiento, un minero con cartola limpia y sin morosidades en cooperativas o casas comerciales se ubica entre los perfiles más deseados por los ejecutivos hipotecarios.",
-          "Ese posicionamiento es una palanca real. La mayoría de los bancos tiene canales preferenciales (no siempre publicitados) para convenios con sindicatos mineros, asociaciones gremiales, compañías productoras y empresas contratistas grandes. Ingresar por el canal correcto puede significar entre 50 y 100 puntos base de diferencia en la tasa final: miles de UF en 25 años. Si tu sindicato o empresa tiene convenio, úsalo — la mesa hipotecaria pública casi nunca iguala la mesa con convenio.",
+          "Ese posicionamiento es una palanca real. La mayoría de los bancos tiene canales preferenciales (no siempre publicitados) para convenios con sindicatos mineros, asociaciones gremiales, compañías productoras y empresas contratistas grandes. Ingresar por el canal correcto puede significar entre 50 y 100 puntos base de diferencia en la tasa final: miles de UF en 25 años. Si tu sindicato o empresa tiene convenio, úsalo, la mesa hipotecaria pública casi nunca iguala la mesa con convenio.",
         ],
       },
       {
@@ -370,7 +370,7 @@ export const ARTICLES: Article[] = [
         h: "Bono producción y asignación de zona: cómo los cuentan",
         p: [
           "Aquí hay un detalle que cambia tu calificación y que la mayoría de los profesionales mineros no negocia: cómo el banco computa el bono producción y las asignaciones variables. Algunos bancos los suman al 100% (lo correcto cuando hay 3+ años de historia), otros al 50% por considerarlos variables, y otros los descartan completamente. Esa decisión cambia tu monto máximo financiable en 20-40%.",
-          "Llega a la mesa con: liquidaciones de los últimos 24 meses (no 12), certificado de la empresa que indique antigüedad y carácter del bono, y si es posible una proyección anualizada del bono producción de los últimos 3 años. La asignación de zona — esa que recibes por trabajar en altura, en faena remota o en condiciones particulares — entra al ingreso bruto y suma para calificación si es contractual y permanente. Si te la pagan como reembolso de gastos, no suma. Vale revisar la liquidación con el contador antes de presentarse.",
+          "Llega a la mesa con: liquidaciones de los últimos 24 meses (no 12), certificado de la empresa que indique antigüedad y carácter del bono, y si es posible una proyección anualizada del bono producción de los últimos 3 años. La asignación de zona, esa que recibes por trabajar en altura, en faena remota o en condiciones particulares, entra al ingreso bruto y suma para calificación si es contractual y permanente. Si te la pagan como reembolso de gastos, no suma. Vale revisar la liquidación con el contador antes de presentarse.",
         ],
       },
       {
@@ -382,7 +382,7 @@ export const ARTICLES: Article[] = [
       },
     ],
     conclusion: [
-      "Un crédito hipotecario bien negociado es una herramienta financiera de primera línea. Un crédito mal negociado es una hipoteca literal sobre tus próximos 25 años. La diferencia entre ambos escenarios son unas cuantas horas de trabajo, algunas cotizaciones en paralelo y saber qué pedir — incluyendo el dato concreto de tu convenio gremial o sindical, que muchos profesionales mineros tienen en el bolsillo y nunca usan.",
+      "Un crédito hipotecario bien negociado es una herramienta financiera de primera línea. Un crédito mal negociado es una hipoteca literal sobre tus próximos 25 años. La diferencia entre ambos escenarios son unas cuantas horas de trabajo, algunas cotizaciones en paralelo y saber qué pedir, incluyendo el dato concreto de tu convenio gremial o sindical, que muchos profesionales mineros tienen en el bolsillo y nunca usan.",
       "Si vas a comprar tu primer departamento o estás evaluando refinanciar uno existente, el acompañamiento de un asesor que conozca las mesas hipotecarias de múltiples bancos y mutuarias puede marcar una diferencia medible en tasa, seguros y estructura del crédito.",
     ],
   },
@@ -408,15 +408,15 @@ export const ARTICLES: Article[] = [
       "APV",
     ],
     intro: [
-      "Para un minero en Chile, los impuestos son uno de los gastos anuales más grandes — y casi siempre el menos entendido. La parte que duele depende de cómo cobras: si eres dependiente de planta, te retienen el Impuesto Único de Segunda Categoría mes a mes en la liquidación; si emites boletas como consultor o asesor, el Impuesto Global Complementario aparece de golpe en abril con un monto que puede equivaler a 2 o 3 meses de ingresos netos.",
-      "Este artículo cubre los dos casos. Empezamos con cómo se grava el sueldo + bono producción de un minero de planta (que es la situación de la mayoría), luego cubrimos el Global Complementario para quienes emiten boletas, y cerramos con las palancas legales que aplican a cada perfil — APV, deducibles, sociedad de profesionales y calendario fiscal.",
+      "Para un minero en Chile, los impuestos son uno de los gastos anuales más grandes, y casi siempre el menos entendido. La parte que duele depende de cómo cobras: si eres dependiente de planta, te retienen el Impuesto Único de Segunda Categoría mes a mes en la liquidación; si emites boletas como consultor o asesor, el Impuesto Global Complementario aparece de golpe en abril con un monto que puede equivaler a 2 o 3 meses de ingresos netos.",
+      "Este artículo cubre los dos casos. Empezamos con cómo se grava el sueldo + bono producción de un minero de planta (que es la situación de la mayoría), luego cubrimos el Global Complementario para quienes emiten boletas, y cerramos con las palancas legales que aplican a cada perfil, APV, deducibles, sociedad de profesionales y calendario fiscal.",
     ],
     sections: [
       {
         h: "Si eres minero de planta: Impuesto Único de Segunda Categoría",
         p: [
           "Si tienes contrato indefinido con una compañía minera, contratista o empresa de servicios, tu sueldo + bono producción + asignaciones tributan vía Impuesto Único de Segunda Categoría. Es progresivo, retenido directamente por el empleador en la liquidación mensual, y se calcula sobre la renta del mes (no del año).",
-          "Hay dos consecuencias importantes que pocos revisan. La primera: cuando llega un bono producción grande, ese mes tu retención salta al tramo superior y \"sientes\" un impuesto desproporcionado. La segunda: si tu único ingreso es el sueldo de planta, generalmente no debes hacer Operación Renta — la retención mensual cierra la cuenta. Pero si haces APV-A, tienes asesorías paralelas, arriendas un departamento, o tu cónyuge declara conjuntamente, sí conviene presentar declaración para reliquidar y, en muchos casos, recibir devolución.",
+          "Hay dos consecuencias importantes que pocos revisan. La primera: cuando llega un bono producción grande, ese mes tu retención salta al tramo superior y \"sientes\" un impuesto desproporcionado. La segunda: si tu único ingreso es el sueldo de planta, generalmente no debes hacer Operación Renta, la retención mensual cierra la cuenta. Pero si haces APV-A, tienes asesorías paralelas, arriendas un departamento, o tu cónyuge declara conjuntamente, sí conviene presentar declaración para reliquidar y, en muchos casos, recibir devolución.",
           "Para un supervisor o ingeniero de planta que gana entre $5 y $12 millones brutos mensuales (incluyendo bono), el tramo marginal anualizado se ubica típicamente entre 30% y 40%. Esa es la franja donde cada peso ahorrado a APV-A vale 30-40 centavos en impuesto que no pagas.",
         ],
       },
@@ -425,7 +425,7 @@ export const ARTICLES: Article[] = [
         p: [
           "El Impuesto Global Complementario (IGC) es un impuesto progresivo que grava la renta anual total de las personas naturales en Chile. Progresivo significa que tiene tramos: los primeros ingresos tributan a tasa baja (o 0%) y los tramos superiores tributan a tasas cada vez más altas, hasta un máximo del 40%.",
           "En términos prácticos, cuando un consultor minero factura por boleta de honorarios, el SII retiene un porcentaje progresivo al momento de emitir cada boleta (en 2026, alrededor del 17% según el calendario gradual de la reforma tributaria, en camino al 17% definitivo de 2028). Esa retención es un pago a cuenta: en la Operación Renta de abril del año siguiente, se recalcula la cifra real según el tramo final del contribuyente y se ajusta con un pago adicional o, raramente, con una devolución.",
-          "Para un consultor minero que factura entre $80 y $200 millones anuales por honorarios — habitual en geólogos senior independientes o ingenieros con cartera de varios mandantes — el tramo marginal termina típicamente entre el 30,4% y el 40%. Sobre cada peso adicional en la franja alta, más de un tercio se va al SII si no hay estructura.",
+          "Para un consultor minero que factura entre $80 y $200 millones anuales por honorarios, habitual en geólogos senior independientes o ingenieros con cartera de varios mandantes, el tramo marginal termina típicamente entre el 30,4% y el 40%. Sobre cada peso adicional en la franja alta, más de un tercio se va al SII si no hay estructura.",
         ],
       },
       {
@@ -564,7 +564,7 @@ export const ARTICLES: Article[] = [
       {
         h: "Antofagasta: la plaza minera por excelencia",
         p: [
-          "Antofagasta concentra la actividad minera más densa del país (Escondida, Spence, Sierra Gorda, Centinela, El Tesoro, Antucoya, Mantos Blancos) y eso se refleja en su mercado inmobiliario. Hay demanda permanente de arriendo de profesionales mineros en turno, ejecutivos de mandantes y contratistas, lo que sostiene cap rates entre 5,5% y 7% bruto — más altos que cualquier comuna santiaguina.",
+          "Antofagasta concentra la actividad minera más densa del país (Escondida, Spence, Sierra Gorda, Centinela, El Tesoro, Antucoya, Mantos Blancos) y eso se refleja en su mercado inmobiliario. Hay demanda permanente de arriendo de profesionales mineros en turno, ejecutivos de mandantes y contratistas, lo que sostiene cap rates entre 5,5% y 7% bruto, más altos que cualquier comuna santiaguina.",
           "La contracara: la plusvalía es más cíclica. En precios de cobre altos los precios suben rápido; en valles del ciclo se aplanan o bajan moderadamente. La plusvalía real anual histórica está entre 3% y 5% UF, pero con varianza muy mayor que en Santiago.",
           "Recomendación: ideal como segundo depto para quien ya tiene base familiar resuelta y quiere capturar arriendo de colegas mineros. Apuntar a sectores Centro, Coviefi y Jardines del Sur con cercanía a hospitales y comercio. Rango UF 1.800 a UF 3.200.",
         ],
@@ -601,7 +601,7 @@ export const ARTICLES: Article[] = [
         list: {
           items: [
             "Si tu base familiar (donde vive tu pareja/hijos o donde quieres estar tras retiro) es Santiago: comprar en Ñuñoa, Providencia o San Miguel como primera vivienda. Es el activo más seguro, plusvalía consistente y demanda de arriendo robusta si después decides arrendarlo.",
-            "Si tu base familiar es regional (La Serena, Concepción, Antofagasta como ciudad): comprar en tu plaza local primero — DFL2, beneficios de primera vivienda, conoces el mercado. Santiago entra como segundo o tercer depto cuando tu portafolio esté diversificado.",
+            "Si tu base familiar es regional (La Serena, Concepción, Antofagasta como ciudad): comprar en tu plaza local primero, DFL2, beneficios de primera vivienda, conoces el mercado. Santiago entra como segundo o tercer depto cuando tu portafolio esté diversificado.",
             "Si vives intensivamente en faena y aún no tienes base familiar definida: comprar primero en una plaza minera donde tengas turno regular (Antofagasta o Coquimbo son los mejores compromiso plusvalía/cap rate), úsalo durante turnos y arriéndalo a colegas en ciclo opuesto.",
             "Nunca comprar en Copiapó o Alto Hospicio como primer depto si no tienes vínculo profundo con la región.",
           ],
